@@ -3,7 +3,7 @@ title: Build
 layout: page
 ---
 
-#How to Create A Digital Service Acquisition and fish
+#How to Create A Digital Service Acquisition 
 
 
 Many technical resources are available to you to create a Digital Service Acquisition. The [library of technical documents]({{ site.baseurl }}/library) and presentations provides links to referance guides you will want to review before starting your implementations. 

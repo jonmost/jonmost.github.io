@@ -62,9 +62,8 @@ layout: page
 	    <dd>The "Behind the Buy" podcast features audio stories told by members of the Federal acquisition workforce who have successfully executed best practice IT contracting strategies from the TechFAR and Digital Services Playbook to help their agency meet its mission.
 <ul>
 <li>
-<a href="https://www.fai.gov/drupal/sites/default/files/audio/030815Podcast.mp3" TARGET="Behind the Buy Podcast #1: Mark Naggar Interview"></a>
+<a href="https://www.fai.gov/drupal/sites/default/files/audio/030815Podcast.mp3" >Behind the Buy Podcast #1: Mark Naggar Interview</a>
 </li>
-
 
 <li>Behind the Buy #2: Driving Agile IT Procurement
  https://www.fai.gov/drupal/sites/default/files/audio/041615Podcast.mp3</li>

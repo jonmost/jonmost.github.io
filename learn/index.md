@@ -67,19 +67,18 @@ layout: page
 <li>Behind the Buy #2: Driving Agile IT Procurement
  https://www.fai.gov/drupal/sites/default/files/audio/041615Podcast.mp3</li>
 
-Behind the Buy #3: A Simple and Intuitive Approach for IT Procurement
-https://www.whitehouse.gov/sites/default/files/audio/behind_the_buy_may2015.mp3
+<li>Behind the Buy #3: A Simple and Intuitive Approach for IT Procurement
+https://www.whitehouse.gov/sites/default/files/audio/behind_the_buy_may2015.mp3</li>
 
-Behind the Buy #4: Leveraging an Agile and Iterative Approach to Help Save American Lives
-https://www.fai.gov/drupal/sites/default/files/audio/2015behind_the_buy_podcast4.mp3
+<li>Behind the Buy #4: Leveraging an Agile and Iterative Approach to Help Save American Lives
+https://www.fai.gov/drupal/sites/default/files/audio/2015behind_the_buy_podcast4.mp3</li>
 
-Behind the Buy #5: Managing and Delivering Digital Services for Agile Software Development
-https://www.whitehouse.gov/sites/default/files/audio/mp3/behind_the_buy_podcast5.mp3
+<li>Behind the Buy #5: Managing and Delivering Digital Services for Agile Software Development
+https://www.whitehouse.gov/sites/default/files/audio/mp3/behind_the_buy_podcast5.mp3</li>
 
-Behind the Buy #6: Managing and Delivering Digital Services for Agile Software Development
-https://www.whitehouse.gov/sites/default/files/audio/mp3/behind_the_buy_podcast6.mp3
+<li>Behind the Buy #6: Managing and Delivering Digital Services for Agile Software Development
+https://www.whitehouse.gov/sites/default/files/audio/mp3/behind_the_buy_podcast6.mp3</li>
 
-@TODO Create Links
 	    </dd>
 	  </dl>
 	</li>

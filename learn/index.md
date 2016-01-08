@@ -69,7 +69,7 @@ layout: page
 
 <li><a href="https://www.whitehouse.gov/sites/default/files/audio/behind_the_buy_may2015.mp3">Behind the Buy #3: A Simple and Intuitive Approach for IT Procurement</a></li>
 
-<li><a href="https://www.fai.gov/drupal/sites/default/files/audio/2015behind_the_buy_podcast4.mp3>Behind the Buy #4: Leveraging an Agile and Iterative Approach to Help Save American Lives</a></li>
+<li><a href="https://www.fai.gov/drupal/sites/default/files/audio/2015behind_the_buy_podcast4.mp3">Behind the Buy #4: Leveraging an Agile and Iterative Approach to Help Save American Lives</a></li>
 
 <li><a href="https://www.whitehouse.gov/sites/default/files/audio/mp3/behind_the_buy_podcast5.mp3">Behind the Buy #5: Managing and Delivering Digital Services for Agile Software Development</a></li>
 

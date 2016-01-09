@@ -1,13 +1,10 @@
 ---
-title: Learn about the Green Button Initiative
+title: Build
 layout: page
 ---
-<section class="home home-about" id="#home-about">
-  <div class="section-container">
-    <div class="section-content">
-           <h1 style="text-align:left;">Discover Digital Service Acquisitions</h1>
-      <br />
-	<ul class="gb-list">
+
+#How to Create A Digital Service Acquisition 
+
 	  <dt>Supporting Acquistion Professionals Executing Digital Services</dt>
 	    <dd>@todoDescription
 	    </dd>

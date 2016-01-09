@@ -2,7 +2,8 @@
 title: Learn about the Green Button Initiative
 layout: page
 ---
-
+<section class="home home-about" id="#home-about">
+  
       <h2 style="text-align:left;">Discover Digital Service Acquisitions</h2>
       <br />
 	<ul class="gb-list">

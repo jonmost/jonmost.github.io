@@ -1,5 +1,5 @@
 ---
-title: Learn about the Green Button Initiative
+title: Learn
 layout: page
 ---
       <section class="home home-about" id="#home-about">

@@ -1,10 +1,10 @@
 ---
-title: Learn
+title: Learn about the Green Button Initiative
 layout: page
 ---
-     <section class="home home-about" id="#home-about">
-        <div class="section-container">
-	 <div class="section-content">
+<section class="home home-about" id="#home-about">
+  <div class="section-container">
+    <div class="section-content">
            <h1 style="text-align:left;">Discover Digital Service Acquisitions</h1>
       <br />
 	<ul class="gb-list">

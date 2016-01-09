@@ -53,6 +53,15 @@ layout: page
 	    </dl>
 	  </li>
 	  <li>
+	   <i class="fa fa-download"></i>
+	  </div>
+	  <h3>Watch a video</h3>
+	  <dl>
+	    <dt>FAI Agile Acquisition 101</dt>
+	    <dd></dd>
+	    </dl>
+	  </li>
+	  <li>
 	  <div class="icon">
 	    <i class="fa fa-exchange"></i>
 	  </div>

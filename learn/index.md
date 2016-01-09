@@ -8,20 +8,13 @@ layout: page
       <h2 style="text-align:left;">Discover Digital Service Acquisitions</h2>
       <br />
 	<ul class="gb-list">
-	  <li>
-	  <div class="icon">
-	    <i class="fa fa-question"></i>
-	  </div>
-	  <h3>What is TechFAR Hub About?</h3>
-	  <dl>
-	    <dt>Supporting Acquistion Professionals Executing Digital Services</dt>
+	  <dt>Supporting Acquistion Professionals Executing Digital Services</dt>
 	    <dd>@todoDescription
 	    </dd>
 	    <dt></dt>
 	    <dd>
 	  </dl>
-	  </li>
-	  <li>
+	   <li>
 	  <div class="icon">
 	    <i class="fa fa-tachometer"></i>
 	  </div>

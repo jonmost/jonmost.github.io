@@ -64,7 +64,7 @@ layout: page
 	    <dd></dd>
 	    </dl>
 	  </li>
-	  <li>
+	  <li></ul>
 	  <div class="icon">
 	    <i class="fa fa-exchange"></i>
 	  </div>

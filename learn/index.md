@@ -5,7 +5,7 @@ layout: page
 <section class="home home-about" id="#home-about">
   <div class="section-container">
     <div class="section-content">
-      #Discover Digital Service Acquisitions
+      <h1style="text-align:left;>Discover Digital Service Acquisitions</h1>
       <br />
 	<ul class="gb-list">
 	  <dt>Supporting Acquistion Professionals Executing Digital Services</dt>

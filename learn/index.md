@@ -58,14 +58,12 @@ layout: page
 	  </div>
 	  <h3>Watch a video</h3>
 	  <dl>
-	  <p><ul>
-<li><a href="https://www.fai.gov/media_library/items/show/81" >Agile Acquisition 101</a>
+	 <li><a href="https://www.fai.gov/media_library/items/show/81" >Agile Acquisition 101</a>
 </li>
 	    <dd></dd>
 	    </dl>
 	  </li>
-	  <li></ul>
-	  <div class="icon">
+	   <div class="icon">
 	    <i class="fa fa-exchange"></i>
 	  </div>
 	  <h3>Listen to a Podcast</h3>
@@ -87,10 +85,4 @@ layout: page
 
 <li><a href="https://www.whitehouse.gov/sites/default/files/audio/mp3/behind_the_buy_podcast6.mp3">Behind the Buy #6: Managing and Delivering Digital Services for Agile Software Development"</a></li>
 
-	    </dd>
-	  </dl>
-	</li>
-      </ul>
-    </div>
-  </div>
-</section>
+

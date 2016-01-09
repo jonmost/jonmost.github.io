@@ -17,10 +17,9 @@ There are 2 active communities that are available to discuss Digital Service Acq
     </dl>
   </dd>
   <dt>DITAP Blog</dt>
-  <dd>@TODO BLOG
-    <dl>
-     
-      </dl>
+  <dd><em>Coming Soon!</em>
+  <dl>
+    </dl>
     </dd>
    </dl>
 </p>   

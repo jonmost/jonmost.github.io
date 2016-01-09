@@ -3,7 +3,7 @@ title: Community
 layout: page
 ---
 
-<h2>Digital Service Acquisition Communities</h2>
+<h1>Digital Service Acquisition Communities</h1>
 <p>
 There are 2 active communities that are available to discuss Digital Service Acquisition. They are listed below. In addition, if you wish to note additional groups, please 
 <a href="mailto:jmostowski@omb.eop.gov">Contact Us</a>!

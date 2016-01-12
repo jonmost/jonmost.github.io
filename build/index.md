@@ -10,7 +10,7 @@ layout: page
 
 
 <FORM>
-<INPUT TYPE="button" onClick="parent.location='https://acquisition-planning-beta.herokuapp.com/'">
+<INPUT TYPE="button" VALUE="ReqGen" onClick="parent.location='https://acquisition-planning-beta.herokuapp.com/'">
 </FORM>
 
 In addition to the ReqGen tool you can checkout the templates and samples that you can use to create your own acquisition documents.

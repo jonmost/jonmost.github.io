@@ -8,7 +8,7 @@ layout: page
 
 <strong>Looks like you are ready to start building your Digital Service Acquisition, that's great!</strong> Click on the ReqGen Requirments button below to get started. This is still a beta version so it is limited to the recomended Fixed Price per Iteration model. This tool includes the best practices from the <a href="https://playbook.cio.gov/">Digital Service Play Book</a>
 
-<a class="usa-button usa-button-big" href="https://acquisition-planning-beta.herokuapp.com">My button</a>
+<a><button name="ReqGen"><href="https://acquisition-planning-beta.herokuapp.com"></button></a>
 
 In addition to the ReqGen tool you can checkout the templates and samples that you can use to create your own acquisition documents.
 <span class="anchor" id="data-custodian-development"></span>

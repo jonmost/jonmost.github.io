@@ -15,9 +15,7 @@ layout: page
 	    <dd>
 	  </dl>
 	   <li>
-	  <div class="icon">
-	    <i class="fa fa-tachometer"></i>
-	  </div>
+	 
 	  <h3>Find Training</h3>
 	  <dl>
 	    <dt>Digital IT Acquisition Profesional (DITAP)</dt>
@@ -25,9 +23,7 @@ layout: page
 	    </dl>
 	  </li>
 	  <li>
-	  <div class="icon">
-	    <i class="fa fa-bolt"></i>
-	  </div>
+	
 	  <h3>Find Events</h3>
 	  <dl>
 	    <dt>@TODO Events</dt>
@@ -36,9 +32,7 @@ layout: page
 	   </dl>
 	  </li>
 	  <li>
-	  <div class="icon">
-	    <i class="fa fa-download"></i>
-	  </div>
+	  
 	  <h3>Read a Case Study</h3>
 	  <dl>
 	    <dt>Technology Stack Refresh at SBA</dt>
@@ -46,9 +40,7 @@ layout: page
 	    </dl>
 	  </li>
 	  <li>
-	   <div class="icon">
-	    <i class="fa fa-download"></i>
-	  </div>
+	  
 	  <h3>Watch a video</h3>
 	  <dl>
 	 <li><a href="https://www.fai.gov/media_library/items/show/81" >Agile Acquisition 101</a>
@@ -57,9 +49,7 @@ layout: page
 	    </dl>
 	  </li>
 	  <li>
-	   <div class="icon">
-	    <i class="fa fa-exchange"></i>
-	  </div>
+	 
 	  <h3>Listen to a Podcast</h3>
 	  <dl>
 	    <dt>Behind the Buy</dt>

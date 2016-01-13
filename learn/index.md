@@ -9,7 +9,7 @@ layout: page
             <br />
 	<ul class="gb-list">
 	  <dt>Supporting Acquistion Professionals Executing Digital Services</dt>
-	    <dd>@todoDescription
+	    <dd>
 	    </dd>
 	    <dt></dt>
 	    <dd>
@@ -20,7 +20,9 @@ layout: page
           <div class="card blue-grey darken-1">
             <div class="card-content white-text">
               <span class="card-title">Card Title</span>
-              <p>Implementing a digital service acquisition correctly from the start has been demonstrated to greatly reduce cost and risk and improve end-user satisfaction. Before you embark on you acquisition you should read the Digital Service Playbook and the TechFar Handbook!</p>
+              <p>Implementing a digital service acquisition correctly from the start has been demonstrated to greatly reduce 
+              cost and risk and improve end-user satisfaction. Before you embark on you acquisition you should read the 
+              Digital Service Playbook and the TechFar Handbook!</p>
             </div>
             <div class="card-action">
               <a href="https://playbook.cio.gov/">Digital Service Playbook</a>

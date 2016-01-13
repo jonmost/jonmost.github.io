@@ -15,7 +15,7 @@ layout: page
 	    <dd>
 	  </dl>
 	   <li>
-	  <a>  <div class="row">
+	  <div>  <div class="row">
         <div class="col s12 m6">
           <div class="card blue-grey darken-1">
             <div class="card-content white-text">
@@ -30,7 +30,7 @@ layout: page
             </div>
           </div>
         </div>
-      </div></a>
+      </div></div>
 	  <h3>Find Training</h3>
 	  <dl>
 	    <dt>Digital IT Acquisition Profesional (DITAP)</dt>

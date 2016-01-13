@@ -16,9 +16,9 @@ layout: page
 	  </dl>
 	   <li>
 	 
-           <h6>Start Here!</h6>
+           <h6></h6>
   <div class="button_wrapper">
-    <button class="usa-button-big" type="button">Default</button>
+    <button class="usa-button-big" type="button">Start Here!</button>
   </div>
          
               <p>Implementing a digital service acquisition correctly from the start has been demonstrated to greatly reduce 

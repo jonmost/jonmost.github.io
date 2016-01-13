@@ -15,7 +15,20 @@ layout: page
 	    <dd>
 	  </dl>
 	   <li>
-	 
+	    <div class="row">
+        <div class="col s12 m6">
+          <div class="card blue-grey darken-1">
+            <div class="card-content white-text">
+              <span class="card-title">Card Title</span>
+              <p>Implementing a digital service acquisition correctly from the start has been demonstrated to greatly reduce cost and risk and improve end-user satisfaction. Before you embark on you acquisition you should read the Digital Service Playbook and the TechFar Handbook!</p>
+            </div>
+            <div class="card-action">
+              <a href="https://playbook.cio.gov/">Digital Service Playbook</a>
+              <a href="https://playbook.cio.gov/techfar/">The TechFar Handbook</a>
+            </div>
+          </div>
+        </div>
+      </div>
 	  <h3>Find Training</h3>
 	  <dl>
 	    <dt>Digital IT Acquisition Profesional (DITAP)</dt>

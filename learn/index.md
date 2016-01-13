@@ -15,19 +15,12 @@ layout: page
 	    <dd>
 	  </dl>
 	   <li>
-	  <div>  <div class="row">
-        <div class="col s12 m6">
-          <div class="card blue-grey darken-1">
-            <div class="card-content white-text">
-              <span class="card-title">Start Here!</span>
+	 
+          <div>  <a href='#' class='button'>Start Here!</a>
               <p>Implementing a digital service acquisition correctly from the start has been demonstrated to greatly reduce 
               cost and risk and improve end-user satisfaction. Before you embark on you acquisition you should read the 
-              Digital Service Playbook and the TechFar Handbook!</p>
-            </div>
-            <div class="card-action">
-              <a href="https://playbook.cio.gov/">Digital Service Playbook</a>
-              <a href="https://playbook.cio.gov/techfar/">The TechFar Handbook</a>
-            </div>
+               <a href="https://playbook.cio.gov/">Digital Service Playbook</a> and <a href="https://playbook.cio.gov/techfar/">The TechFar Handbook</a>!</p>
+                </div>
           </div>
         </div>
       </div></div>

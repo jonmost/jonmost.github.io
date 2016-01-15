@@ -16,8 +16,8 @@ layout: page
 	  </dl>
 	   <li>
 	 
-  <h6>Large</h6>
-  <span class="usa-label-big">Start Here!</span>
+
+ <strong>Start Here!</strong>
 
          
               <p>Implementing a digital service acquisition correctly from the start has been demonstrated to greatly reduce 

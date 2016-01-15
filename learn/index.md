@@ -27,11 +27,11 @@ layout: page
           </div>
         </div>
       </div></div>
-<p><strong> The U.S. Digital Services Playbook</strong>
-The American people expect to interact with government through digital channels such as websites, email, and mobile applications. By building digital services that meet their needs, we make the delivery of our policy and programs more effective. Today, many of our digital services projects do not work well, are delivered late, or are over budget. To increase our success rate, the U.S. Government is taking a new approach. The U.S. Digital Service created the Digital Services Playbook 13 “plays” drawn from the private and public sectors. Adopting these plays helps government build effective digital services. </p>
+<div><h3><strong> The U.S. Digital Services Playbook</strong></h3>
+The American people expect to interact with government through digital channels such as websites, email, and mobile applications. By building digital services that meet their needs, we make the delivery of our policy and programs more effective. Today, many of our digital services projects do not work well, are delivered late, or are over budget. To increase our success rate, the U.S. Government is taking a new approach. The U.S. Digital Service created the Digital Services Playbook 13 “plays” drawn from the private and public sectors. Adopting these plays helps government build effective digital services. </div>
 
-<p><strong>The TechFAR Handbook</strong>
-The TechFAR Handbook highlights opportunities to adopt plays from the Digital Services Playbook within the Federal Acquisition Regulations (FAR) — plays that focus on using contractors in an iterative, customer-driven software development process, drawn from best practices in the private sector</p>
+<div><h3><strong>The TechFAR Handbook</strong></h3>
+The TechFAR Handbook highlights opportunities to adopt plays from the Digital Services Playbook within the Federal Acquisition Regulations (FAR) — plays that focus on using contractors in an iterative, customer-driven software development process, drawn from best practices in the private sector</div>
 	
 
 	  <h3>Watch a video</h3>

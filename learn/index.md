@@ -68,19 +68,35 @@ Video courtesy of
    <source src="https://www.fai.gov/drupal/sites/default/files/audio/030815Podcast.mp3" />  
 </audio> 
 
-<p><ul>
-<li><a href="https://www.fai.gov/drupal/sites/default/files/audio/030815Podcast.mp3" >Behind the Buy Podcast #1: Mark Naggar Interview</a>
-</li>
+<h4>Behind the Buy #2: Driving Agile IT Procurement</h4>
+<audio controls="controls">  
+   <source src="https://www.fai.gov/drupal/sites/default/files/audio/041615Podcast.mp3" />  
+   <source src="https://www.fai.gov/drupal/sites/default/files/audio/041615Podcast.mp3" />  
+</audio> 
 
-<li><a href="https://www.fai.gov/drupal/sites/default/files/audio/041615Podcast.mp3">Behind the Buy #2: Driving Agile IT Procurement
- </a></li>
+<h4>Behind the Buy #3: A Simple and Intuitive Approach for IT Procurement</h4>
+<audio controls="controls">  
+   <source src="https://www.whitehouse.gov/sites/default/files/audio/behind_the_buy_may2015.mp3" />  
+   <source src="https://www.whitehouse.gov/sites/default/files/audio/behind_the_buy_may2015.mp3" />  
+</audio>
 
-<li><a href="https://www.whitehouse.gov/sites/default/files/audio/behind_the_buy_may2015.mp3">Behind the Buy #3: A Simple and Intuitive Approach for IT Procurement</a></li>
+<h4>Behind the Buy #4: Leveraging an Agile and Iterative Approach to Help Save American Lives</h4>
+<audio controls="controls">  
+   <source src="https://www.fai.gov/drupal/sites/default/files/audio/2015behind_the_buy_podcast4.mp3" />  
+   <source src="https://www.fai.gov/drupal/sites/default/files/audio/2015behind_the_buy_podcast4.mp3" />  
+</audio>
 
-<li><a href="https://www.fai.gov/drupal/sites/default/files/audio/2015behind_the_buy_podcast4.mp3">Behind the Buy #4: Leveraging an Agile and Iterative Approach to Help Save American Lives</a></li>
+<h4>Behind the Buy #5: Managing and Delivering Digital Services for Agile Software Development</h4>
+<audio controls="controls">  
+   <source src="https://www.whitehouse.gov/sites/default/files/audio/mp3/behind_the_buy_podcast5.mp3" />  
+   <source src="https://www.whitehouse.gov/sites/default/files/audio/mp3/behind_the_buy_podcast5.mp3" />  
+</audio>
 
-<li><a href="https://www.whitehouse.gov/sites/default/files/audio/mp3/behind_the_buy_podcast5.mp3">Behind the Buy #5: Managing and Delivering Digital Services for Agile Software Development</a></li>
+<h4>Behind the Buy #6: Managing and Delivering Digital Services for Agile Software Development</h4>
+<audio controls="controls">  
+   <source src="https://www.whitehouse.gov/sites/default/files/audio/mp3/behind_the_buy_podcast6.mp3" />  
+   <source src="https://www.whitehouse.gov/sites/default/files/audio/mp3/behind_the_buy_podcast6.mp3" />  
+</audio>
 
-<li><a href="https://www.whitehouse.gov/sites/default/files/audio/mp3/behind_the_buy_podcast6.mp3">Behind the Buy #6: Managing and Delivering Digital Services for Agile Software Development"</a></li>
 
 

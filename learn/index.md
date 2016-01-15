@@ -27,22 +27,15 @@ layout: page
           </div>
         </div>
       </div></div>
-	<strong> The U.S. Digital Services Playbook</strong>
-The American people expect to interact with government through digital channels such as websites, email, and mobile applications. By building digital services that meet their needs, we make the delivery of our policy and programs more effective.
+<ul><li>	<strong> The U.S. Digital Services Playbook</strong>
+The American people expect to interact with government through digital channels such as websites, email, and mobile applications. By building digital services that meet their needs, we make the delivery of our policy and programs more effective. </li>
 
 Today, many of our digital services projects do not work well, are delivered late, or are over budget. To increase our success rate, the U.S. Government is taking a new approach. The U.S. Digital Service created the Digital Services Playbook 13 “plays” drawn from the private and public sectors. Adopting these plays helps government build effective digital services.
 
-<strong>The TechFAR Handbook</strong>
-The TechFAR Handbook highlights opportunities to adopt plays from the Digital Services Playbook within the Federal Acquisition Regulations (FAR) — plays that focus on using contractors in an iterative, customer-driven software development process, drawn from best practices in the private sector
+<li><strong>The TechFAR Handbook</strong>
+The TechFAR Handbook highlights opportunities to adopt plays from the Digital Services Playbook within the Federal Acquisition Regulations (FAR) — plays that focus on using contractors in an iterative, customer-driven software development process, drawn from best practices in the private sector</li></ul>
 	
-	  <h3>Read a Case Study</h3>
-	  <dl>
-	    <dt>Technology Stack Refresh at SBA</dt>
-	    <dd>@TODOSBA Link or Summary</dd>
-	    </dl>
-	  </li>
-	  <li>
-	  
+
 	  <h3>Watch a video</h3>
 <P> <strong>Not all training has to be done in the classroom.</strong> Specialized videos are a great rescource for discovering new acquisition strategies. The links below provide valueable lessons from acquisition experts that can help you better understand the oppertunities, methods, and challanges around Digital Service Acquisitions. </p>
 <p>More videos will be available soon, but to get started, visit FAI and checkout <a href="https://www.fai.gov/media_library/items/show/81/">Agile Acquisition 101</a>
@@ -89,5 +82,12 @@ The TechFAR Handbook highlights opportunities to adopt plays from the Digital Se
    <source src="https://www.whitehouse.gov/sites/default/files/audio/mp3/behind_the_buy_podcast6.mp3" />  
 </audio>
 
-
+	  <h3>Read a Case Study</h3>
+	  <dl>
+	  <p> Now that you have had an oppertunity to familiarize yourself with the fundamentals and best practices of <em>Digital Service Acquisitions</em> it is time to role up your sleeves and dig a little deeper. Case Studies are a great way to really immerse yourself in the experience. <strong>You are not alone;</strong> select a case study below and read first hand, the experience, struggles, and accomplishments of your fellow acquisition professionals as they took their unique journey.
+	    <dt>Technology Stack Refresh at SBA</dt>
+	    <dd>@TODOSBA Link or Summary</dd>
+	    </dl>
+	  </li>
+	  <li>
 

@@ -38,30 +38,18 @@ layout: page
 	  <li>
 	  
 	  <h3>Watch a video</h3>
-	<!DOCTYPE html> 
-<html> 
-<body> 
-
-<video width="400" controls>
-  <source src="mov_bbb.mp4" type="video/mp4">
-  <source src="mov_bbb.ogg" type="video/ogg">
-  Your browser does not support HTML5 video.
-</video>
-
+<P> <strong>Not all training has to be done in the classroom.</strong> Specialized videos are a great rescource for discovering new acquisition strategies. The links below provide valueable lessons from acquisition experts that can help you better understand the oppertunities, methods, and challanges around Digital Service Acquisitions. 
 <p>
 Video courtesy of 
 <a href="https://www.fai.gov/media_library/items/show/81" target="Agile Acquisition 101</a>.
 </p>
 
-</body> 
-</html>
-	
 
 	 
 	  <h3>Listen to a Podcast</h3>
 	  <dl>
+	  <p>Whether you are driving in your car or sitting at your desk, podcasts are a great way to learn about Digital Service Acquisitions. Anne Rung, Director of OFPP, has created an incredible series of podcasts called "Behind the Buy." Click on one of the audio links below and relax as you listen to audio stories told by members of the Federal acquisition workforce who have successfully executed best practice IT contracting strategies from the TechFAR and Digital Services Playbook to help their agency meet its mission.</p>
 	    <H4>Behind the Buy</h4>
-<p><em>The "Behind the Buy" podcast features audio stories told by members of the Federal acquisition workforce who have successfully executed best practice IT contracting strategies from the TechFAR and Digital Services Playbook to help their agency meet its mission.</em></p>
 <h5>Behind the Buy Podcast #1: Mark Naggar Interview</h5>
 <audio controls="controls">  
    <source src="https://www.fai.gov/drupal/sites/default/files/audio/030815Podcast.mp3" />  

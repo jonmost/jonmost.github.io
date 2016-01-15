@@ -5,7 +5,8 @@ layout: page
 
 <h1>Digital Service Acquisition Communities</h1>
 <p>
-There are 2 active communities that are available to discuss Digital Service Acquisition. They are listed below. In addition, if you wish to note additional groups, please 
+<strong>TechFAR Hub Community on the Acquisition Gateway</strong>
+The Acquisition Gateway is the home of a vibrant collaborative TechFAR Hub Community. The Digital Services Playbook and the TechFAR Handbook are tremendous resources, but the Federal-wide TechFAR Hub was launched with a bolder vision than just sharing resources. Employees across the Federal Government are ready to raise the bar by sharing expertise, experience, and insights with the Community. In support of this we have created DITAP Chat to allow discussions amongst anyone interested in Digital Service Acquisitions. Coming soon we will also a DITAP Blog which will allow members of the federal acquisition community to share their experiences. In addition, if you wish to note additional groups, please 
 <a href="mailto:jmostowski@omb.eop.gov">Contact Us</a>!
 </p>
 <p>

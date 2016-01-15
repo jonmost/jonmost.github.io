@@ -17,8 +17,7 @@ layout: page
 	   <li>
 	 
            <h6></h6>
-  <div class="button_wrapper">
-    <button class="usa-button-big" type="button">Start Here!</button>
+  <div <button>Start Here!</button>
   </div>
          
               <p>Implementing a digital service acquisition correctly from the start has been demonstrated to greatly reduce 
@@ -36,15 +35,6 @@ layout: page
 	  </li>
 	  <li>
 	
-	  <h3>Find Events</h3>
-	  <dl>
-	    <dt>@TODO Events</dt>
-	    <dd>@TODO EVENT Description 
-	    </dd>
-	   </dl>
-	  </li>
-	  <li>
-	  
 	  <h3>Read a Case Study</h3>
 	  <dl>
 	    <dt>Technology Stack Refresh at SBA</dt>

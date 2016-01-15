@@ -17,7 +17,7 @@ layout: page
 	   <li>
 	 
 
- <strong>Start Here!</strong>
+<h2> <strong>Start Here!</strong></h2>
 
          
               <p>Implementing a digital service acquisition correctly from the start has been demonstrated to greatly reduce 
@@ -44,13 +44,25 @@ layout: page
 	  <li>
 	  
 	  <h3>Watch a video</h3>
-	  <dl>
-	 <li><a href="https://www.fai.gov/media_library/items/show/81" >Agile Acquisition 101</a>
-</li>
-	    <dd></dd>
-	    </dl>
-	  </li>
-	  <li>
+	<!DOCTYPE html> 
+<html> 
+<body> 
+
+<video width="400" controls>
+  <source src="mov_bbb.mp4" type="video/mp4">
+  <source src="mov_bbb.ogg" type="video/ogg">
+  Your browser does not support HTML5 video.
+</video>
+
+<p>
+Video courtesy of 
+<a href="https://www.fai.gov/media_library/items/show/81" target="Agile Acquisition 101</a>.
+</p>
+
+</body> 
+</html>
+	
+
 	 
 	  <h3>Listen to a Podcast</h3>
 	  <dl>

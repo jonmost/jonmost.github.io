@@ -10,7 +10,7 @@ The Digital Services Playbook and the TechFAR Handbook are tremendous resources,
 <p>
 <dl>
   <dt>DITAP Chat</dt>
-  <dd>@TODO Discussion Board DESCRIPTION
+  <dd><em>DITAP Chat</em> is the Digital IT Acquisition Professional platform on Stack Exchange that is open to discuss any questions that arise along the journey to improve the Federal Acquisition of Digital Services.
     <dl>
       <dt><a href="http://stackoverflow.com/tour" target="_blank">DITAP Chat</a></dt>
     </dl>

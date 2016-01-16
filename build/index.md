@@ -5,14 +5,15 @@ layout: page
 
 #How to Create A Digital Service Acquisition 
 
-Okay, before we start building your Request for Quote (RFQ), let's get and estimate. Currently we offer two methods. The first, <strong>App Estimator,</strong> will help you estimate the cost and rescources associated with building a single app.  The Second, <strong>Agile Estimator</strong> will help you build an estimate for what we call <em>"agile in a box"</em> or an iterative development team.
+Okay, before we start building your Request for Quote (RFQ), let's get an estimate. Currently we offer two methods. The first, <strong>App Estimator,</strong> will help you estimate the cost and rescources associated with building a single app.  The Second, <strong>Agile Estimator</strong> will help you build an estimate for what we call <em>"agile in a box"</em> or an iterative development team.
 
-
+<p>If you are looking to build an app, let's start here</p>
 <p><div><FORM>
 <INPUT TYPE="button" VALUE="App Estimator" onClick="parent.location='https://pre-award.herokuapp.com/'">
 </FORM>
 </div></p>
 
+<p>If you need ongoing development services or are looking to build a series of capabilities click the button below</p>
 <p><div><FORM>
 <INPUT TYPE="button" VALUE="Agile Estimator" onClick="parent.location='https://docs.google.com/a/gsa.gov/document/d/1o64xuqUNTwKYs0x-bYLPPFinUgCE5Q2ii-76nG9E4to/edit?usp=sharing'">
 </FORM></div></p>

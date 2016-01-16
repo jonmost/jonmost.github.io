@@ -12,7 +12,7 @@ The Acquisition Gateway is the home of a vibrant collaborative TechFAR Hub Commu
   <dt>DITAP Chat</dt>
   <dd>@TODO Discussion Board DESCRIPTION
     <dl>
-      <dt><a href="http://@todo link TO Stack Exchange" target="_blank">DITAP Chat</a></dt>
+      <dt><a href="http://stackoverflow.com/tour" target="_blank">DITAP Chat</a></dt>
     </dl>
   </dd>
   <dt>DITAP Blog</dt>

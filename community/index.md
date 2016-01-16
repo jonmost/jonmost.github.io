@@ -15,7 +15,7 @@ The Digital Services Playbook and the TechFAR Handbook are tremendous resources,
       <dt></dt>
     </dl>
   </dd>
-  <dt>DITAP Blog</dt>
+  <h2>DITAP Blog</h2>
   <dd><em>Coming Soon!</em>
   <dl>
     </dl>

@@ -7,7 +7,7 @@ layout: page
 
 Okay, before we start building your Request for Quote (RFQ), let's get an estimate. Currently we offer two methods. The first, <strong>App Estimator,</strong> will help you estimate the cost and rescources associated with building a single app.  The Second, <strong>Agile Estimator</strong> will help you build an estimate for what we call <em>"agile in a box"</em> or an iterative development team.
 
-<p>If you are looking to build an app, let's start here</p>
+<p>If you are looking to build an app, let's start here:</p>
 <p><div><FORM>
 <INPUT TYPE="button" VALUE="App Estimator" onClick="parent.location='https://pre-award.herokuapp.com/'">
 </FORM>

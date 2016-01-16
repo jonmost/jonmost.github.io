@@ -31,7 +31,7 @@ In addition to the Req Builder tool you can checkout the templates and samples b
 ##Templates & Samples
 
 1. [Statement of Objectives](/developers)
-2. [Request For Quotes](https://github.com/energyos/OpenESPI-Common-java/blob/master/etc/espiDerived.xsd)
+2. [Request For Quotes](https://www.fai.gov/media_library/files/original/834f2dfbf485e98c37a8bc0388307444.pdf)
 3. [IGCE](/library/video)
 
 

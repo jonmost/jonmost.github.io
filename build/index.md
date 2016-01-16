@@ -33,6 +33,6 @@ In addition to the Req Builder tool you can checkout the templates and samples b
 1. [Statement of Objectives](/developers)
 2. [Request For Quotes](https://github.com/energyos/OpenESPI-Common-java/blob/master/etc/espiDerived.xsd)
 3. [IGCE](/library/video)
-@TODO Create repository
+
 
 

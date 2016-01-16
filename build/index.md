@@ -5,7 +5,7 @@ layout: page
 
 #How to Create A Digital Service Acquisition 
 
-Okay, before we start building your Request for Quote (RFQ), let's get an estimate. Currently we offer two methods. The first, <strong>App Estimator,</strong> will help you estimate the cost and rescources associated with building a single app.  The Second, <strong>Agile Estimator</strong> will help you build an estimate for what we call <em>"agile in a box"</em> or an iterative development team.
+Okay, before we start building your Request for Quote (RFQ), let's get an estimate. Currently we offer two methods. The first, <strong>App Estimator,</strong> will help you estimate the cost and rescources associated with building a single app.  The Second, <strong>Agile Estimator</strong> will help you build an estimate for what we call <em>"agile in a box"</em> (i.e., an iterative development team).
 
 <p>If you are looking to build an app, let's start here:</p>
 <p><div><FORM>
@@ -25,8 +25,8 @@ Okay, before we start building your Request for Quote (RFQ), let's get an estima
 <INPUT TYPE="button" VALUE="Req Builder" onClick="parent.location='https://acquisition-planning-beta.herokuapp.com/'">
 </FORM>
 
-In addition to the Req Builder tool you can checkout the templates and samples below to create your own acquisition documents.
-<span class="anchor" id="data-custodian-development"></span>
+<p>In addition to the Req Builder tool you can checkout the templates and samples below to create your own acquisition documents.
+<span class="anchor" id="data-custodian-development"></span></p>
 
 ##Templates & Samples
 

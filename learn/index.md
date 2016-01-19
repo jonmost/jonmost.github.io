@@ -21,7 +21,7 @@ layout: page
 
          
               <p>Implementing a digital service acquisition correctly from the start has been demonstrated to greatly reduce 
-              cost and risk and improve end-user satisfaction. Before you embark on you acquisition you should read the 
+              cost and risk and improve end-user satisfaction. Before you embark on your acquisition you should read the 
                <a href="https://playbook.cio.gov/">Digital Service Playbook</a> and <a href="https://playbook.cio.gov/techfar/">The TechFar Handbook</a>!</p>
                 </div>
           </div>

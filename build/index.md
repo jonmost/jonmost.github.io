@@ -31,7 +31,7 @@ Okay, before we start building your Request for Quote (RFQ), let's get an estima
 ##Templates & Samples
 
 1. [Statement of Objectives](/developers)
-2. [Request For Quotes] (https://github.com/downloads/jonmost.github.io/assets/Agile Task Order Example.docx)
+2. [Request For Quotes] (https://github.com/downloads/jonmost.github.io/assets/Agile-Task-Order-Example.docx)
 3. [IGCE](/library/video)
 
 

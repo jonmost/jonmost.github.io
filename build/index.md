@@ -19,8 +19,9 @@ Okay, before we start building your Request for Quote (RFQ), let's get an estima
 </FORM></div></p>
 
 <form method="get" action="/assets/Agile%20Estimator.xlsx/">
-<button type="submit">Download!</button>
-</form>
+<button type="submit">Agile Estimator</button>
+
+</form> <a href="/assets/Agile%20Estimator.xlsx/" download="Agile_Estimator">Agile Estimator</a>
 
 <strong>Looks like you are ready to start building your Digital Service Acquisition, that's great!</strong> Click on the Req Builder  button below to get started. This is still a beta version so it is limited to the recomended Fixed Price per Iteration model. This tool includes the best practices from the <a href="https://playbook.cio.gov/">Digital Service Play Book</a>
 

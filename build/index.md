@@ -15,7 +15,7 @@ Okay, before we start building your Request for Quote (RFQ), let's get an estima
 
 <p>If you need ongoing development services or are looking to build a series of capabilities click the button below</p>
 <p><div><FORM>
-<INPUT TYPE="button" VALUE="Agile Estimator" onClick="parent.location='https://www.icloud.com/numbers/000hORhOB57_KVdze6KgKlpKw#Estimation_Tool/'">
+<INPUT TYPE="button" VALUE="Agile Estimator" onClick="parent.location='https://github.com/jonmost/jonmost.github.io/blob/master/assets/Agile%20Estimator.xlsx/'">
 </FORM></div></p>
 
 <strong>Looks like you are ready to start building your Digital Service Acquisition, that's great!</strong> Click on the Req Builder  button below to get started. This is still a beta version so it is limited to the recomended Fixed Price per Iteration model. This tool includes the best practices from the <a href="https://playbook.cio.gov/">Digital Service Play Book</a>
@@ -31,7 +31,7 @@ Okay, before we start building your Request for Quote (RFQ), let's get an estima
 ##Tools, Templates, & Samples
 
 1. [Contract Awarded Labor Category Tool](https://calc.gsa.gov/)
-2. [Independent Government Estimation Tool](/assets/Agile%20Estimator.numbers)
+2. [Independent Government Estimation Tool](/assets/Agile%20Estimator.xlsx)
 3. [Statement of Objectives Template](/developers)
 4.  [Agile Task Order FFP Independent Government Cost Estimate (IGCE) Template Example](/assets/Agile_Task_Order_IGCE_Example_-Sec_508_Remediated.docx)
 5. [Request For Quotes System Modernization Sample](/assets/Agile%20Task%20Order%20Example.docx)

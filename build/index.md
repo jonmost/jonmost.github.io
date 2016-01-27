@@ -32,7 +32,8 @@ Okay, before we start building your Request for Quote (RFQ), let's get an estima
 
 1. [Statement of Objectives](/developers)
 2. [Request For Quotes](/assets/Agile%20Task%20Order%20Example.docx)
-3. [IGCE](/library/video)
+3. [Request For Quote Enterprise Collaboration and Customer Relationship Management Correspondence System Implementation](/assets/CRMTaskOrder%20Sample%20DRAFT.pages)
+4. [IGCE](/library/video)
 
 
 

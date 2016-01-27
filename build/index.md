@@ -32,7 +32,7 @@ Okay, before we start building your Request for Quote (RFQ), let's get an estima
 
 1. [Contract Awarded Labor Category Tool](https://calc.gsa.gov/)
 2. [Independent Government Estimation Tool](/assets/Agile%20Estimator.xlsx)
-3. [Statement of Objectives Template](/developers)
+3. [Statement of Objectives Template](/assets/DigitalServiceSOO.docx)
 4.  [Agile Task Order FFP Independent Government Cost Estimate (IGCE) Template Example](/assets/Agile_Task_Order_IGCE_Example_-Sec_508_Remediated.docx)
 5. [Request For Quotes System Modernization Sample](/assets/Agile%20Task%20Order%20Example.docx)
 6. [Request For Quote Enterprise Collaboration and Customer Relationship Management Correspondence System Implementation](/assets/CRMTaskOrder%20Sample%20DRAFT.docx)

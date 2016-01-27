@@ -33,7 +33,7 @@ Okay, before we start building your Request for Quote (RFQ), let's get an estima
 1. [Statement of Objectives](/developers)
 2. [Request For Quotes System Modernization Sample](/assets/Agile%20Task%20Order%20Example.docx)
 3. [Request For Quote Enterprise Collaboration and Customer Relationship Management Correspondence System Implementation](/assets/CRMTaskOrder%20Sample%20DRAFT.docx)
-4. [IGCE](/library/video)
+4. [Agile Task Order FFP Independent Government Cost Estimate (IGCE) Example](/assets/Agile_Task_Order_IGCE_Example_-Sec_508_Remediated.docx)
 
 
 

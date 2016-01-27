@@ -15,7 +15,7 @@ As you move through your journey there will be questions, <strong>that is a good
     </dl>
   </dd>
   <h2>DITAP Blog</h2>
-  <dd><em>Coming Soon!</em>
+  <dd>The DITAP Blog will be <em>Coming Soon!</em> In the meantime checkout the <a href="http://gsablogs.gsa.gov/gsablog/">GSA Blog</a>
   <dl>
     </dl>
     </dd>

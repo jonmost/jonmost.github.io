@@ -15,7 +15,7 @@ Okay, before we start building your Request for Quote (RFQ), let's get an estima
 
 <p>If you need ongoing development services or are looking to build a series of capabilities click the button below</p>
 <p><div><FORM>
-<INPUT TYPE="button" VALUE="Agile Estimator" onClick=""parent.location='/assets/Agile%20Estimator.numbers'">
+<INPUT TYPE="button" VALUE="Agile Estimator" onClick=""parent.location=(/assets/Agile%20Estimator.numbers)>
 </FORM></div></p>
 
 <strong>Looks like you are ready to start building your Digital Service Acquisition, that's great!</strong> Click on the Req Builder  button below to get started. This is still a beta version so it is limited to the recomended Fixed Price per Iteration model. This tool includes the best practices from the <a href="https://playbook.cio.gov/">Digital Service Play Book</a>
@@ -28,13 +28,16 @@ Okay, before we start building your Request for Quote (RFQ), let's get an estima
 <p>In addition to the Req Builder tool you can checkout the templates and samples below to create your own acquisition documents.
 <span class="anchor" id="data-custodian-development"></span></p>
 
-##Templates & Samples
+##Tools, Templates, & Samples
 
-1. [Statement of Objectives](/developers)
-2. [Request For Quotes System Modernization Sample](/assets/Agile%20Task%20Order%20Example.docx)
-3. [Request For Quote Enterprise Collaboration and Customer Relationship Management Correspondence System Implementation](/assets/CRMTaskOrder%20Sample%20DRAFT.docx)
-4. [Contract Awarded Labor Category Tool](https://calc.gsa.gov/)
-5. [Agile Task Order FFP Independent Government Cost Estimate (IGCE) Example](/assets/Agile_Task_Order_IGCE_Example_-Sec_508_Remediated.docx)
+1. [Contract Awarded Labor Category Tool](https://calc.gsa.gov/)
+2. [Independent Government Estimation Tool](/assets/Agile%20Estimator.numbers)
+3. [Statement of Objectives Template](/developers)
+4.  [Agile Task Order FFP Independent Government Cost Estimate (IGCE) Template Example](/assets/Agile_Task_Order_IGCE_Example_-Sec_508_Remediated.docx)
+5. [Request For Quotes System Modernization Sample](/assets/Agile%20Task%20Order%20Example.docx)
+6. [Request For Quote Enterprise Collaboration and Customer Relationship Management Correspondence System Implementation](/assets/CRMTaskOrder%20Sample%20DRAFT.docx)
+
+
 
 
 

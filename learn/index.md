@@ -76,8 +76,10 @@ layout: page
 	  <h2>Read a Case Study</h2>
 	  <dl>
 	  <p> Now that you have had an oppertunity to familiarize yourself with the fundamentals and best practices of <em>Digital Service Acquisitions</em> it is time to role up your sleeves and dig a little deeper. Case Studies are a great way to really immerse yourself in the experience. <strong>You are not alone;</strong> select a case study below and read first hand, the experience, struggles, and accomplishments of your fellow acquisition professionals as they took their unique journey.
-	    <dt>Technology Stack Refresh at SBA</dt>
-	    <dd>@TODOSBA Link or Summary</dd>
+	   <ul>
+	   <li><a href="https://www.whitehouse.gov/sites/default/files/microsites/ostp/innovative_contracting_case_studies_2014_-_august.pdf">Innoavate Contracting Case Studies</a></li>
+	   <li><a href=""<Technology Stack Refresh at SBA</a></li>
+	   
 	    </dl>
 	  </li>
 	  <li>

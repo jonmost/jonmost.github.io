@@ -23,6 +23,8 @@ layout: page
               <p>Implementing a digital service acquisition correctly from the start has been demonstrated to greatly reduce 
               cost and risk and improve end-user satisfaction. Before you embark on your acquisition you should read the 
                <a href="https://playbook.cio.gov/">Digital Service Playbook</a> and <a href="https://playbook.cio.gov/techfar/">The TechFar Handbook</a>!</p>
+               Here are other Useful documents to help you get familiarized with acquiring Digital Services
+               [Best Practices to procure Agile Services](assets/Best%20Practices%20to%20Procure%20Agile%20IT%20Services%20-%20ET%20SIG%2003-2014.pdf)
                 </div>
           </div>
         </div>

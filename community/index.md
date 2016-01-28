@@ -9,7 +9,7 @@ As you move through your journey there will be questions, <strong>that is a good
 <p>
 <dl>
   <h2>DITAP Chat</h2>
-  <dd><a href="https://www.quora.com/topic/Digital-Service-Acquisition" target="_blank">DITAP Chat</a> is the Digital IT Acquisition Professional platform on Stack Exchange that is open to discuss any questions that arise along the journey to improve the Federal Acquisition of Digital Services.
+  <dd><a href="http://area51.stackexchange.com/proposals/95077/digital-service-acquisitions?referrer=iNHbk2AgvcNzGkfgmq2BHw2" target="_blank">DITAP Chat</a> is the Digital IT Acquisition Professional platform on Stack Exchange that is open to discuss any questions that arise along the journey to improve the Federal Acquisition of Digital Services. It is still in the building phase, so help support the community by following and contributing to the dicussion!
     <dl>
       <dt></dt>
     </dl>

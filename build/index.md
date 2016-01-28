@@ -33,9 +33,8 @@ In addition to the applications above you can check out the [GSA Contract Awarde
 <span class="anchor" id="data-custodian-development"></span></p>
 
 <h2>Templates</h2> 
-<ul>
-<li>[Statement of Objectives Template](/assets/DigitalServiceSOO.docx)</li>
-<li>[Agile Task Order FFP Independent Government Cost Estimate (IGCE) Template Example](/assets/Agile_Task_Order_IGCE_Example_-Sec_508_Remediated.docx)</li></ul>
+[Statement of Objectives Template](/assets/DigitalServiceSOO.docx)
+[Agile Task Order FFP Independent Government Cost Estimate (IGCE) Template Example](/assets/Agile_Task_Order_IGCE_Example_-Sec_508_Remediated.docx)
  
 
 

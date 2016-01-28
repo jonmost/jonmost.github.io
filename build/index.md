@@ -7,6 +7,7 @@ layout: page
 
 Okay, before we start building your Request for Quote (RFQ), let's get an estimate. Currently we offer two methods. The first, <strong>App Estimator,</strong> will help you estimate the cost and rescources associated with building a single app.  The Second, <strong>Agile Estimator</strong> will help you build an estimate for what we call <em>"agile in a box"</em> (i.e., an iterative development team).
 
+<h2>Tools</h2>
 <p>If you are looking to build an app, let's start here:</p>
 <p><div><FORM>
 <INPUT TYPE="button" VALUE="App Estimator" onClick="parent.location='https://pre-award.herokuapp.com/'">
@@ -18,8 +19,10 @@ Okay, before we start building your Request for Quote (RFQ), let's get an estima
 <INPUT TYPE="button" VALUE="Agile Estimator" onClick="parent.location='https://github.com/jonmost/jonmost.github.io/blob/master/assets/Agile%20Estimator.xlsx'">
 </FORM></div></p>
 
-1. [Contract Awarded Labor Category Tool](https://calc.gsa.gov/)
-2. [Independent Government Estimation Tool](/assets/Agile%20Estimator.xlsx)
+In addition to the applications above you can check out the [GSA Contract Awarded Labor Category (CALC) Tool ](https://calc.gsa.gov/) or download the [Independent Government Estimation Tool](/assets/Agile%20Estimator.xlsx)
+<ul>
+<li></li>
+<li></li>
 
 <strong>Looks like you are ready to start building your Digital Service Acquisition, that's great!</strong> Click on the Req Builder  button below to get started. This is still a beta version so it is limited to the recomended Fixed Price per Iteration model. This tool includes the best practices from the <a href="https://playbook.cio.gov/">Digital Service Play Book</a>
 

@@ -32,15 +32,15 @@ In addition to the applications above you can check out the [GSA Contract Awarde
 <p>In addition to the Req Builder tool you can checkout the templates and samples below to create your own acquisition documents.
 <span class="anchor" id="data-custodian-development"></span></p>
 
-<h2>Templates</h2> 
-*[Statement of Objectives Template](/assets/DigitalServiceSOO.docx)
-*[Agile Task Order FFP Independent Government Cost Estimate (IGCE) Template Example](/assets/Agile_Task_Order_IGCE_Example_-Sec_508_Remediated.docx)
+#Templates
+* [Statement of Objectives Template](/assets/DigitalServiceSOO.docx)
+* [Agile Task Order FFP Independent Government Cost Estimate (IGCE) Template Example](/assets/Agile_Task_Order_IGCE_Example_-Sec_508_Remediated.docx)
  
 
 
-<h2>Samples</h2>
-*[Request For Quotes System Modernization Sample](/assets/Agile%20Task%20Order%20Example.docx)
-*[Request For Quote Enterprise Collaboration and Customer Relationship Management Correspondence System Implementation](/assets/CRMTaskOrder%20Sample%20DRAFT.docx)
+#Samples
+* [Request For Quotes System Modernization Sample](/assets/Agile%20Task%20Order%20Example.docx)
+* [Request For Quote Enterprise Collaboration and Customer Relationship Management Correspondence System Implementation](/assets/CRMTaskOrder%20Sample%20DRAFT.docx)
 
 
 

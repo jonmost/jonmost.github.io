@@ -13,10 +13,13 @@ Okay, before we start building your Request for Quote (RFQ), let's get an estima
 </FORM>
 </div></p>
 
-<p>If you need ongoing development services or are looking to build a series of capabilities click the button below</p>
+<p>If you need ongoing development services or are looking to build a series of capabilities click the button below:</p>
 <p><div><FORM>
 <INPUT TYPE="button" VALUE="Agile Estimator" onClick="parent.location='https://github.com/jonmost/jonmost.github.io/blob/master/assets/Agile%20Estimator.xlsx'">
 </FORM></div></p>
+
+1. [Contract Awarded Labor Category Tool](https://calc.gsa.gov/)
+2. [Independent Government Estimation Tool](/assets/Agile%20Estimator.xlsx)
 
 <strong>Looks like you are ready to start building your Digital Service Acquisition, that's great!</strong> Click on the Req Builder  button below to get started. This is still a beta version so it is limited to the recomended Fixed Price per Iteration model. This tool includes the best practices from the <a href="https://playbook.cio.gov/">Digital Service Play Book</a>
 
@@ -28,12 +31,14 @@ Okay, before we start building your Request for Quote (RFQ), let's get an estima
 <p>In addition to the Req Builder tool you can checkout the templates and samples below to create your own acquisition documents.
 <span class="anchor" id="data-custodian-development"></span></p>
 
-##Tools, Templates, & Samples
+<h2>Templates</h2> Samples
 
-1. [Contract Awarded Labor Category Tool](https://calc.gsa.gov/)
-2. [Independent Government Estimation Tool](/assets/Agile%20Estimator.xlsx)
+
 3. [Statement of Objectives Template](/assets/DigitalServiceSOO.docx)
 4.  [Agile Task Order FFP Independent Government Cost Estimate (IGCE) Template Example](/assets/Agile_Task_Order_IGCE_Example_-Sec_508_Remediated.docx)
+
+
+<h2>Samples</h2>
 5. [Request For Quotes System Modernization Sample](/assets/Agile%20Task%20Order%20Example.docx)
 6. [Request For Quote Enterprise Collaboration and Customer Relationship Management Correspondence System Implementation](/assets/CRMTaskOrder%20Sample%20DRAFT.docx)
 

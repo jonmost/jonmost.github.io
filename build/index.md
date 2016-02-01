@@ -38,7 +38,7 @@ In addition to the applications above you can check out the [GSA Contract Awarde
  
 
 
-<h2>Samples</h2.
+<h2>Samples</h2>
 * [Request For Quotes System Modernization Sample](/assets/Agile%20Task%20Order%20Example.docx)
 * [Request For Quote Enterprise Collaboration and Customer Relationship Management Correspondence System Implementation](/assets/CRMTaskOrder%20Sample%20DRAFT.docx)
 

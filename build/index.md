@@ -16,10 +16,10 @@ Okay, before we start building your Request for Quote (RFQ), let's get an estima
 
 <p>If you need ongoing development services or are looking to build a series of capabilities click the button below:</p>
 <p><div><FORM>
-<INPUT TYPE="button" VALUE="Agile Estimator" onClick="parent.location='https://github.com/jonmost/jonmost.github.io/blob/master/assets/Agile%20Estimator.xlsx'">
+<INPUT TYPE="button" VALUE="Agile Estimator" onClick="parent.location='https://acquisition-planning-beta.herokuapp.com/agile_estimator'">
 </FORM></div></p>
 
-In addition to the applications above you can check out the [GSA Contract Awarded Labor Category (CALC)](https://calc.gsa.gov/) tool or download the [Independent Government Estimation Tool](/assets/Agile%20Estimator.xlsx)
+In addition to the applications above you can check out the [GSA Contract Awarded Labor Category (CALC)](https://calc.gsa.gov/) tool.
 
 
 <strong>Looks like you are ready to start building your Digital Service Acquisition, that's great!</strong> Click on the Req Builder  button below to get started. This is still a beta version so it is limited to the recomended Fixed Price per Iteration model. This tool includes the best practices from the <a href="https://playbook.cio.gov/">Digital Service Play Book</a>

@@ -14,8 +14,8 @@ As you move through your journey there will be questions, <strong>that is a good
       <dt></dt>
     </dl>
   </dd>
-  <h2>DITAP Blog</h2>
-  <dd>The DITAP Blog will be <em>Coming Soon!</em> In the meantime checkout the <a href="http://gsablogs.gsa.gov/gsablog/">GSA Blog</a> and the <a href=" https://18f.gsa.gov/blog/">18f Digital Service Blog</a> 
+  <h2>Let's Blog About It</h2>
+  <dd>An interactive Blog will be <em>Coming Soon!</em> In the meantime checkout the <a href="https://digitalacquisitionpilot.wordpress.com/">Digital Acquisition Pilot Blog </a>, <a href="http://gsablogs.gsa.gov/gsablog/">GSA Blog</a>, and the <a href=" https://18f.gsa.gov/blog/">18f Digital Service Blog</a> 
   <dl>
     </dl>
     </dd>

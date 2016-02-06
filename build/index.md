@@ -2,7 +2,9 @@
 title: Build
 layout: page
 ---
-
+<link rel="stylesheet" href="http://jonmost.github.io/dist/css/main.css">
+<link rel="stylesheet" href="http://jonmost.github.io/dist/css/google-fonts.css">
+<script src="http://jonmost.github.io/dist/js/components.js"></script>
 <h1>How to Create A Digital Service Acquisition</h1>
 
 Okay, before we start building your Request for Quote (RFQ), let's get an estimate. Currently we offer two methods. The first, <strong>App Estimator,</strong> will help you estimate the cost and rescources associated with building a single app.  The Second, <strong>Agile Estimator</strong> will help you build an estimate for what we call <em>"agile in a box"</em> (i.e., an iterative development team).

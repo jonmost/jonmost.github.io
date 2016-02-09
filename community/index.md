@@ -1,5 +1,5 @@
 ---
-permalink: /community
+permalink: /learn2
 layout: styleguide
 title: Getting started
 ---

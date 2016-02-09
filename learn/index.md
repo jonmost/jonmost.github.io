@@ -1,7 +1,8 @@
 ---
-permalink: /
-layout: homepage
-title: Draft U.S. Web Design Standards
+permalink: /getting-started/
+layout: styleguide
+title: Getting started
+lead: The Draft U.S. Web Design Standards are designed to set a new bar for simplicity and consistency across government services, while providing you with plug-and-play design and code.
 ---
 
 <link rel="stylesheet" href="http://jonmost.github.io/dist/css/main.css">

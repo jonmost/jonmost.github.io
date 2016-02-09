@@ -1,7 +1,7 @@
 ---
 permalink: /build
-layout: homepage
-title: Draft U.S. Web Design Standards
+layout: styleguide
+title: 
 ---
 
 <link rel="stylesheet" href="http://jonmost.github.io/dist/css/main.css">

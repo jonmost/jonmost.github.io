@@ -1,6 +1,6 @@
 
 ---
-permalink: /discuss
+permalink: /community
 layout: styleguide
 title: Getting started
 ---

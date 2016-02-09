@@ -30,7 +30,7 @@ title: Do It
       </nav>
       <div class="usa-banner-content" id="main-content">
 
-<section><section> <section class="usa-banner">
+<section class="usa-banner">
     <div class="usa-grid">
       <nav>
         
@@ -70,14 +70,9 @@ Okay, before we start building your Request for Quote (RFQ), let's get an estima
 <p><a href="/assets/Agile%20Task%20Order%20Example.docx">Request For Quotes System Modernization Sample</a></p>
 <p><a href="/assets/CRMTaskOrder%20Sample%20DRAFT.docx">Request For Quote Enterprise Collaboration and Customer Relationship Management Correspondence System Implementation</a></p>
 
- <div class="button_wrapper">
-    <a class="usa-button-outline" type="button" href="jonmost.github.io">Home</a>
-    <a class="usa-button-outline usa-button-active" type="button" href="jonmost.github.io/learn">Discover It</a>
-    <a class="usa-button-outline usa-button-hover" type="button" href="jonmost.github.io/community">Discuss It</a>
-     </div>
 
 
-<section class="usa-section">
+
   <div class="usa-grid">
     <div class="usa-intro usa-standlast">
       <h2>Contribute</h2>
@@ -89,4 +84,11 @@ Okay, before we start building your Request for Quote (RFQ), let's get an estima
     </div>
     <p>Or drop us an email at <a href="mailto:jmostowski@omb.eop.gov">jmostowski@omb.eop.gov</a></p>
   </div>
-</section>
+
+ <div class="button_wrapper">
+    <a class="usa-button-outline" type="button" href="jonmost.github.io">Home</a>
+    <a class="usa-button-outline usa-button-active" type="button" href="jonmost.github.io/learn">Discover It</a>
+    <a class="usa-button-outline usa-button-hover" type="button" href="jonmost.github.io/community">Discuss It</a>
+     </div>
+     
+     </section>

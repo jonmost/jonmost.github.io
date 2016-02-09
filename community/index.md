@@ -1,7 +1,7 @@
 ---
-permalink: /learn2
+permalink: /community
 layout: styleguide
-title: Getting started
+title: 
 ---
 
 

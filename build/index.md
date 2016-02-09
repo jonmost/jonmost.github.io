@@ -37,7 +37,7 @@ title: Do It
       </nav>
 <h2>How to Create A Digital Service Acquisition</h2>
 
-Guidance and Discussion are crucial to success in understanding what to implement in the digital service acquisition environment but when having to sit down and DO it, the task may seem daunting. This section provides tools, samples, and templates that can help you get started.
+Guidance and Discussion are crucial to success in understanding what to implement in the digital service acquisition environment but when having to sit down and <em>do it</em>, the task may seem daunting. This section provides tools, samples, and templates that can help you get started.
 
 <h3>Tools</h3>
 Currently we offer two methods for cost estimation. The first, <strong>App Estimator,</strong> will help you estimate the cost and rescources associated with building a single app.  The Second, <strong>Agile Team Estimator</strong> can help build an Independent Government Cost Estimate (IGCE) for Agile Development services. 

@@ -76,7 +76,7 @@ Okay, before we start building your Request for Quote (RFQ), let's get an estima
     <a class="usa-button-outline usa-button-hover" type="button" href="#build">Do It</a>
 
      </div>
-</section
+
 
 <section class="usa-section">
   <div class="usa-grid">

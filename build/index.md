@@ -1,7 +1,7 @@
 ---
 permalink: /build
 layout: styleguide
-title: 
+title: Do It
 ---
 
 <link rel="stylesheet" href="http://jonmost.github.io/dist/css/main.css">

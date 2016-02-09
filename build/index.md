@@ -33,13 +33,13 @@ title: Do It
 <section class="usa-banner">
     <div class="usa-grid">
       <nav>
-        
+        <h1>TechFAR Hub - Do IT</h1>
       </nav>
-<h1>How to Create A Digital Service Acquisition</h1>
+<h2>How to Create A Digital Service Acquisition</h2>
 
 Okay, before we start building your Request for Quote (RFQ), let's get an estimate. Currently we offer two methods. The first, <strong>App Estimator,</strong> will help you estimate the cost and rescources associated with building a single app.  The Second, <strong>Agile Team Builder</strong> will help you build an estimate for what we call <em>"agile in a box"</em> (i.e., an iterative development team).
 
-<h2>Tools</h2>
+<h3>Tools</h3>
 <p>Choose your estimation tool below:</p>
 
   <div class="button_wrapper">
@@ -59,23 +59,22 @@ Okay, before we start building your Request for Quote (RFQ), let's get an estima
 <p></P>
 
 
-<h2>Templates</h2>
+<h3>Templates</h3>
 <P><a href="/assets/DigitalServiceSOO.docx">Statement of Objectives Template</a></P>
 <p><a href="/assets/Agile_Task_Order_IGCE_Example_-Sec_508_Remediated.docx">Agile Task Order FFP Independent Government Cost Estimate (IGCE) Template Example</a></p>
 
  
 
 
-<h2>Samples</h2>
+<h3>Samples</h3>
 <p><a href="/assets/Agile%20Task%20Order%20Example.docx">Request For Quotes System Modernization Sample</a></p>
 <p><a href="/assets/CRMTaskOrder%20Sample%20DRAFT.docx">Request For Quote Enterprise Collaboration and Customer Relationship Management Correspondence System Implementation</a></p>
 
 
 
 
-  <div class="usa-grid">
-    <div class="usa-intro usa-standlast">
-      <h2>Contribute</h2>
+
+      <h3>Contribute</h3>
       <p>The draft TechFAR Hub alpha was created during the winter of 2016 by the procurement team at the U.S. Digital Service. We will continue to maintain and update these resources as we learn what works best for the people we serve.</p>
       <p>Help us make it better.</p>
     </div>

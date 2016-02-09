@@ -1,9 +1,9 @@
-
 ---
 permalink: /community
 layout: styleguide
 title: Getting started
 ---
+
 
 <link rel="stylesheet" href="http://jonmost.github.io/dist/css/main.css">
 <link rel="stylesheet" href="http://jonmost.github.io/dist/css/google-fonts.css">

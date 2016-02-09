@@ -50,7 +50,7 @@ Currently we offer two methods for cost estimation. The first, <strong>App Estim
   </div>
  <p></p>
 
-<strong>Looks like you are ready to start building your Digital Service Acquisition, that's great!</strong> Click on the Playbook-In-Action button below to get started. This is still a beta version so it is limited to the recomended Fixed Price per Iteration model. This tool includes the best practices from the <a href="https://playbook.cio.gov/">Digital Service Play Book</a>
+Click on the <strong>Playbook-In-Action</strong> button below to get started creating a Statement of Objective based on the <a href="https://playbook.cio.gov/">Digital Service Play Book</a>. This is still an alpha version so feedback is appreciated. 
 <p></p>
 <div class="button_wrapper">
    <a class="usa-button-primary-alt usa-button-active" type="button" href="https://acquisition-planning-beta.herokuapp.com">Playbook-In-Action</a>

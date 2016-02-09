@@ -64,10 +64,10 @@ View the <a href="http://opendata.stackexchange.com/" target="blank">Open Data S
 
 <p>In the meantime these informative blogs will help keep you connected with the government digital service efforts:</p>
  <div class="button_wrapper">
-    <a class="usa-button-outline-inverse usa-button-active" type="button" href="https://digitalacquisitionpilot.wordpress.com/">Digital Acquisition Pilot Blog</a>
-    <a class="usa-button-outline-inverse usa-button-active" type="button" href="http://gsablogs.gsa.gov/gsablog/">GSA Blog</a>
-    <a class="usa-button-outline-inverse usa-button-active" type="button" href="https://18f.gsa.gov/blog/">18f Digital Service Blog</a>
-    <a class="usa-button-outline-inverse usa-button-active" type="button" href="https://medium.com/@USDigitalService 
+    <a class="usa-button-secondary usa-button-active" type="button" href="https://digitalacquisitionpilot.wordpress.com/">Digital Acquisition Pilot Blog</a>
+    <a class="usa-button-secondary usa-button-active" type="button" href="http://gsablogs.gsa.gov/gsablog/">GSA Blog</a>
+    <a class="usa-button-secondary usa-button-active" type="button" href="https://18f.gsa.gov/blog/">18f Digital Service Blog</a>
+    <a class="usa-button-secondary usa-button-active" type="button" href="https://medium.com/@USDigitalService 
 DigitalGov.Gov">US Digital Service Blog</a>
      </div>
 

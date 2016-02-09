@@ -1,7 +1,10 @@
+
 ---
-title: Learn about the Green Button Initiative
-layout: page
+permalink: /
+layout: homepage
+title: Draft U.S. Web Design Standards
 ---
+
 <link rel="stylesheet" href="http://jonmost.github.io/dist/css/main.css">
 <link rel="stylesheet" href="http://jonmost.github.io/dist/css/google-fonts.css">
 <script src="http://jonmost.github.io/dist/js/components.js"></script>

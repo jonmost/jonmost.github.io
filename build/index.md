@@ -58,6 +58,16 @@ Okay, before we start building your Request for Quote (RFQ), let's get an estima
 
 <p></P>
 
+<h3>Digital Contracting Cookbook</h3>
+This guide created by 18F provides information and suggestions about how to acquire digital services. This is an open source product so contributions are encouraged. 
+<a class="usa-button-primary-alt usa-button-active" type="button" href="https://pages.18f.gov/contracting-cookbook/">Digital Contracting Cookbook</a>
+
+<p></p>
+<h3>18F Method Cards</h3>
+Method Cards are created to add rigor and structure to agile development, build a shared vocabulary for each method among 18F staff and partner agencies, and to give less experienced or new researchers a gateway into well-documented and proven research methods, supported by other 18F team members.
+<a class="usa-button-primary-alt usa-button-active" type="button" href="https://methods.18f.gov/">18F Method Cards</a>
+
+<p></p>
 
 <h3>Templates</h3>
 <P><a href="/assets/DigitalServiceSOO.docx">Statement of Objectives Template</a></P>
@@ -71,6 +81,10 @@ Okay, before we start building your Request for Quote (RFQ), let's get an estima
 <p><a href="/assets/CRMTaskOrder%20Sample%20DRAFT.docx">Request For Quote Enterprise Collaboration and Customer Relationship Management Correspondence System Implementation</a></p>
 
 
+<h3>Vehicles</h3>
+Government-wide or Agency specific vehicles that specifically support digital service procurements
+<a href="http://www.gsa.gov/portal/content/120966">SalesForce Governmentwide BPA</a>
+<a href="https://18f.gsa.gov/2015/08/28/announcing-the-agile-BPA-awards/">18F Agile BPA – Alpha Version</a>
 
 
 

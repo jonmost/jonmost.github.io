@@ -1,22 +1,44 @@
 ---
-title: Learn about the Green Button Initiative
-layout: page
+permalink: /
+layout: homepage
+title: Draft U.S. Web Design Standards
 ---
 
+<link rel="stylesheet" href="http://jonmost.github.io/dist/css/main.css">
+<link rel="stylesheet" href="http://jonmost.github.io/dist/css/google-fonts.css">
+<script src="http://jonmost.github.io/dist/js/components.js"></script>
 
-<section class="home home-about" id="#home-about">
-  <div class="section-container">
-    <div class="section-content">
-         <h1 style="text-align:left;">Discover Digital Service Acquisitions</h1>
-            <br />
-	<ul class="gb-list">
-	  <dt></dt>
-	    <dd>
-	    </dd>
-	    <dt></dt>
-	    <dd>
-	  </dl>
-	   <li>
+<a class="skipnav" href="#main-content">Skip main navigation</a>
+
+<header role="banner">
+
+  <div class="usa-disclaimer">
+    <div class="usa-grid">
+      <span class="usa-disclaimer-official">
+        <img class="usa-flag_icon" alt="U.S. flag signifying that this is a United States federal government website" src="{{ site.baseurl }}/jonmost.github.io-V2/assets/img/us_flag_small.png">
+        An official website of the United States government
+      </span>
+      <span class="usa-disclaimer-stage">This site is currently in alpha. </span>
+    </div>
+  </div>
+
+
+  <section class="usa-banner">
+    <div class="usa-grid">
+      <nav>
+        <a class="usa-banner-link-top" href="https://github.com/jonmost/jonmost.github.io">View on GitHub</a>
+      </nav>
+      <div class="usa-banner-content" id="main-content">
+      
+       <section class="usa-banner">
+    <div class="usa-grid">
+      <nav>
+      
+      </nav>
+ <div class="usa-banner-content" id="main-content">
+      <a name="discover"></a>   <h1>Discover Digital Service Acquisitions</h1>
+       
+
 	 
 
 <h2> <strong>Let's Get Started!</strong></h2>
@@ -30,6 +52,13 @@ layout: page
           </div>
         </div>
       </div></div>
+
+   <section class="usa-banner">
+    <div class="usa-grid">
+      <nav>
+       
+      </nav>
+ <div class="usa-banner-content" id="main-content">
 
 	  <h2>Watch a video</h2>
 <P> <strong>Not all training has to be done in the classroom!</strong> Specialized videos are a great rescource for discovering new acquisition strategies. The links below provide valueable lessons from acquisition experts that can help you better understand the oppertunities, methods, and challanges around Digital Service Acquisitions. More videos will be available soon, but to get started, visit FAI and checkout <a href="https://www.fai.gov/media_library/items/show/81/">Agile Acquisition 101</a>.
@@ -83,4 +112,16 @@ layout: page
 	   <li><a href="http://www.agilegovleaders.org/case-studies/doj/">Case Study: Agile Government and The Department of Justice</a></li>
 	   <li><a href="http://www.agilegovleaders.org/case-studies/gsa/">Case Study: Agile Government and the General Services Administration (Integrated Award Environment)</a></li>
 	    </dl>
-	  </ul>
+	  </ul></div>
+
+ <div class="button_wrapper">
+    <a class="usa-button-outline" type="button" href="#discover">Discover It</a>
+    <a class="usa-button-outline usa-button-active" type="button" href="#discuss">Discuss It</a>
+    <a class="usa-button-outline usa-button-hover" type="button" href="#build">Do It</a>
+
+     </div>
+
+</section>
+
+      
+

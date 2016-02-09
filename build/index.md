@@ -37,14 +37,15 @@ title: Do It
       </nav>
 <h2>How to Create A Digital Service Acquisition</h2>
 
-Okay, before we start building your Request for Quote (RFQ), let's get an estimate. Currently we offer two methods. The first, <strong>App Estimator,</strong> will help you estimate the cost and rescources associated with building a single app.  The Second, <strong>Agile Team Builder</strong> will help you build an estimate for what we call <em>"agile in a box"</em> (i.e., an iterative development team).
+Guidance and Discussion are crucial to success in understanding what to implement in the digital service acquisition environment but when having to sit down and DO it, the task may seem daunting. This section provides tools, samples, and templates that can help you get started.
 
 <h3>Tools</h3>
+Currently we offer two methods for cost estimation. The first, <strong>App Estimator,</strong> will help you estimate the cost and rescources associated with building a single app.  The Second, <strong>Agile Team Estimator</strong> can help build an Independent Government Cost Estimate (IGCE) for Agile Development services. 
 <p>Choose your estimation tool below:</p>
 
   <div class="button_wrapper">
     <a class="usa-button-hover" type="button" href="https://pre-award.herokuapp.com">App Estimator</a>
-    <a class="usa-button-active" type="button" href="https://acquisition-planning-beta.herokuapp.com/agile_estimator">Agile Team Builder</a>
+    <a class="usa-button-hover" type="button" href="https://acquisition-planning-beta.herokuapp.com/agile_estimator">Agile Team Estimator</a>
  
   </div>
  <p></p>
@@ -60,11 +61,13 @@ Okay, before we start building your Request for Quote (RFQ), let's get an estima
 
 <h3>Digital Contracting Cookbook</h3>
 This guide created by 18F provides information and suggestions about how to acquire digital services. This is an open source product so contributions are encouraged. 
+<p></p>
 <a class="usa-button-primary-alt usa-button-active" type="button" href="https://pages.18f.gov/contracting-cookbook/">Digital Contracting Cookbook</a>
 
 <p></p>
 <h3>18F Method Cards</h3>
 Method Cards are created to add rigor and structure to agile development, build a shared vocabulary for each method among 18F staff and partner agencies, and to give less experienced or new researchers a gateway into well-documented and proven research methods, supported by other 18F team members.
+<p></p>
 <a class="usa-button-primary-alt usa-button-active" type="button" href="https://methods.18f.gov/">18F Method Cards</a>
 
 <p></p>
@@ -83,7 +86,9 @@ Method Cards are created to add rigor and structure to agile development, build 
 
 <h3>Vehicles</h3>
 Government-wide or Agency specific vehicles that specifically support digital service procurements
+<p></p>
 <a href="http://www.gsa.gov/portal/content/120966">SalesForce Governmentwide BPA</a>
+<p></p>
 <a href="https://18f.gsa.gov/2015/08/28/announcing-the-agile-BPA-awards/">18F Agile BPA – Alpha Version</a>
 
 

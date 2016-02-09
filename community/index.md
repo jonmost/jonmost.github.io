@@ -61,10 +61,9 @@ As you move through your journey there will be questions, <strong>that is a good
 </p>  
 
  <div class="button_wrapper">
-    <a class="usa-button-outline" type="button" href="#discover">Discover It</a>
-    <a class="usa-button-outline usa-button-active" type="button" href="#discuss">Discuss It</a>
-    <a class="usa-button-outline usa-button-hover" type="button" href="#build">Do It</a>
-
+    <a class="usa-button-outline" type="button" href="jonmost.github.io/learn">Discover It</a>
+    <a class="usa-button-outline usa-button-active" type="button" href="jonmost.github.io/community">Discuss It</a>
+    <a class="usa-button-outline usa-button-hover" type="button" href="jonmost.github.io/build">Do It</a>
      </div>
 
 </section>

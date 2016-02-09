@@ -2,7 +2,9 @@
 title: Learn about the Green Button Initiative
 layout: page
 ---
-
+<link rel="stylesheet" href="http://jonmost.github.io/dist/css/main.css">
+<link rel="stylesheet" href="http://jonmost.github.io/dist/css/google-fonts.css">
+<script src="http://jonmost.github.io/dist/js/components.js"></script>
 
 <section class="home home-about" id="#home-about">
   <div class="section-container">

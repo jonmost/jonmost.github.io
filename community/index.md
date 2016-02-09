@@ -41,7 +41,8 @@ title:
       <nav>
         
       </nav>
- <div class="usa-banner-content" id="main-content"><a name="discuss"></a><h1>Digital Service Acquisition Communities</h1>
+ <div class="usa-banner-content" id="main-content">
+ <h1>Digital Service Acquisition Communities</h1>
 As you move through your journey there will be questions, <strong>that is a good thing!</strong> In support of this we have created  <strong>DITAP Chat</strong> to allow discussions amongst <em>anyone</em> interested in Digital Service Acquisitions. Coming soon we will also have a DITAP Blog which will allow members of the federal acquisition community to share their experiences. 
 
 <p>

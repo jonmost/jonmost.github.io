@@ -36,7 +36,7 @@ title: Getting started
       
       </nav>
  <div class="usa-banner-content" id="main-content">
-      <a name="discover"></a>   <h1>Discover Digital Service Acquisitions</h1>
+     <h1>Discover Digital Service Acquisitions</h1>
        
 
 	 

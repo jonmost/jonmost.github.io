@@ -46,9 +46,12 @@ title: Getting started
 <h3> <strong>Let's Get Started!</strong></h3>
 
          
-              <p>Implementing a digital service acquisition correctly from the start has been demonstrated to greatly reduce 
-              cost and risk and improve end-user satisfaction. Before you embark on your acquisition you should read the 
-               <a href="https://playbook.cio.gov/">Digital Service Playbook</a> and <a href="https://playbook.cio.gov/techfar/">The TechFar Handbook</a>!</p>
+              <p>Before embarking on an acquisition you should become familiar with the guiding government best practices
+               <a class="usa-button-active" type="button" href="https://playbook.cio.gov/">Digital Service Playbook</a>
+               <a class="usa-button-hover" type="button" href="https://playbook.cio.gov/techfar/">The TechFar Handbook</a>
+             
+               
+               </p>
              
                 </div>
           </div>

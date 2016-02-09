@@ -77,7 +77,7 @@ Okay, before we start building your Request for Quote (RFQ), let's get an estima
       <h3>Contribute</h3>
       <p>The draft TechFAR Hub alpha was created during the winter of 2016 by the procurement team at the U.S. Digital Service. We will continue to maintain and update these resources as we learn what works best for the people we serve.</p>
       <p>Help us make it better.</p>
-    </div>
+  
     <div class="usa-cta">
       <a class="usa-button usa-button-secondary" href="https://github.com/jonmost/jonmost.github.io">Contribute on GitHub</a>
     </div>

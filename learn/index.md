@@ -46,12 +46,13 @@ title: Getting started
 <h3> <strong>Let's Get Started!</strong></h3>
 
          
-              <p>Before embarking on an acquisition you should become familiar with the guiding government best practices
+              Before embarking on an acquisition you should become familiar with the guiding government best practices
+              <p></p>
                <a class="usa-button-hover" type="button" href="https://playbook.cio.gov/">Digital Service Playbook</a>
                <a class="usa-button-hover" type="button" href="https://playbook.cio.gov/techfar/">The TechFar Handbook</a>
              
                
-               </p>
+             <p></p>
              
                 </div>
           </div>

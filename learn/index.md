@@ -1,8 +1,8 @@
-
 ---
 title: Learn about the Green Button Initiative
 layout: page
 ---
+
 
 <section class="home home-about" id="#home-about">
   <div class="section-container">
@@ -84,4 +84,3 @@ layout: page
 	   <li><a href="http://www.agilegovleaders.org/case-studies/gsa/">Case Study: Agile Government and the General Services Administration (Integrated Award Environment)</a></li>
 	    </dl>
 	  </ul>
-

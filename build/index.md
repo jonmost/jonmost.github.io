@@ -72,7 +72,7 @@ Okay, before we start building your Request for Quote (RFQ), let's get an estima
 
  <div class="button_wrapper">
     <a class="usa-button-outline" type="button" href="jonmost.github.io">Home</a>
-    <a class="usa-button-outline usa-button-active" type="button" href="jonmost.github.io/community">Discuss It</a>
+    <a class="usa-button-outline usa-button-active" type="button" href="jonmost.github.io/learn">Discover It</a>
     <a class="usa-button-outline usa-button-hover" type="button" href="jonmost.github.io/community">Discuss It</a>
      </div>
 

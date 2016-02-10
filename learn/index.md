@@ -119,7 +119,6 @@ Specialized videos are a great resource for discovering new acquisition strategi
 <h4>US Web Design Standards</h4>
 <p>Listen to Mollie Ruskin and Julia Elman explain how the US Web Design Standards make government websites more consistent and easier to build</p>
 
-<h5>U.S. Web Design Standards</h5>
 <audio controls="controls">  
    <source src="http://hwcdn.libsyn.com/p/3/4/c/34cc68d31f31177b/Responsive_Web_Design_64_-_U.S._Digital_Service.mp3?c_id=10372902&expiration=1455051806&hwt=a804010813361627dad194e66e8f7a39" />  
    <source src="http://hwcdn.libsyn.com/p/3/4/c/34cc68d31f31177b/Responsive_Web_Design_64_-_U.S._Digital_Service.mp3?c_id=10372902&expiration=1455051806&hwt=a804010813361627dad194e66e8f7a39" />  

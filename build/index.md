@@ -75,7 +75,7 @@ Method Cards are created to add rigor and structure to agile development, build 
 <h3>Templates</h3>
 <P><a href="/assets/DigitalServiceSOO.docx">Statement of Objectives Template</a></P>
 <p><a href="/assets/Agile_Task_Order_IGCE_Example_-Sec_508_Remediated.docx">Agile Task Order FFP Independent Government Cost Estimate (IGCE) Template Example</a></p>
-
+<P><a href="/assets/UX%20Contract%20Provisions.docx">UX Contract Provisions</a></P>
  
 
 

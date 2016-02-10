@@ -132,6 +132,7 @@ Specialized videos are a great resource for discovering new acquisition strategi
 	   <li><a href="https://www.whitehouse.gov/sites/default/files/microsites/ostp/innovative_contracting_case_studies_2014_-_august.pdf">Innovate Contracting Case Studies</a></li>
 	   <li><a href="http://www.agilegovleaders.org/case-studies/doj/">Case Study: Agile Government and The Department of Justice</a></li>
 	   <li><a href="http://www.agilegovleaders.org/case-studies/gsa/">Case Study: Agile Government and the General Services Administration (Integrated Award Environment)</a></li>
+	     <li><a href="/assets/Innovation_is_a_Contract_Sport__Ways_that_agencies_can_achieve_innovative_outcomes_through_acquisitions-2016%2002%2006.pdf">Innovation is a Contract Sport</a></li>
 	    </dl>
 	  </ul></div>
 

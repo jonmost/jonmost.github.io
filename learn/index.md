@@ -37,11 +37,26 @@ title: Getting started
       </nav>
  <div class="usa-banner-content" id="main-content">
      <h1>TechFar Hub - Discover It</h1>
+
+<div class="usa-grid">
+    <aside class="usa-width-one-fourth">
+      <ul class="usa-sidenav-list">
+        <li>
+          <a class="usa-current" href="http://jonmost.github.io/learn">Discover It</a>
+        </li>
+        <li>
+          <a href="http://jonmost.github.io/community">Discuss It</a>
+        </li>
+        <li>
+          <a href="http://jonmost.github.io/build">Do It</a>
+        </li>
+      </ul>
+    </aside>
+  </div>
      
      <h2>Discover Digital Service Acquisitions</h2>
        
 
-	 
 
 <h3> <strong>Let's Get Started!</strong></h3>
 

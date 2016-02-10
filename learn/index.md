@@ -8,37 +8,6 @@ title: Getting started
 <link rel="stylesheet" href="http://jonmost.github.io/dist/css/google-fonts.css">
 <script src="http://jonmost.github.io/dist/js/components.js"></script>
 
-{% assign current = page.url | downcase | split: '/' %}
-
-<aside class="sidenav" id="menu-content">
-  <nav>
-    <ul class="usa-sidenav-list">
-      <li>
-        <a {% if current[1] == 'getting-started' %}class="usa-current"{% endif %} href="{{ site.baseurl }}/getting-started/">Getting started</a>
-      </li>
-      <li>
-        <a {% if current[1] == 'visual-style' %}class="usa-current"{% endif %} href="{{ site.baseurl }}/visual-style/">Visual style</a>
-        <ul class="usa-sidenav-sub_list visual-style-sublist">
-          <li>
-            <a href="{{ site.baseurl }}/visual-style/#typography">Typography</a>
-            <ul class="usa-sidenav-sub_list">
-              <li>
-                <a href="{{ site.baseurl }}/visual-style/#typefaces">Typefaces</a>
-              </li>
-              <li>
-                <a href="{{ site.baseurl }}/visual-style/#pairings">Pairings and styles</a>
-              </li>
-              <li>
-                <a href="{{ site.baseurl }}/visual-style/#typesetting">Typesetting</a>
-              </li>
-              <li>
-                <a href="{{ site.baseurl }}/visual-style/#links">Links</a>
-              </li>
-              <li>
-                <a href="{{ site.baseurl }}/visual-style/#lists">Lists</a>
-              </li>
-            </ul>
-          </li>
 
 <a class="skipnav" href="#main-content">Skip main navigation</a>
 
@@ -74,6 +43,37 @@ title: Getting started
      
      <h2>Discover Digital Service Acquisitions</h2>
        
+{% assign current = page.url | downcase | split: '/' %}
+
+<aside class="sidenav" id="menu-content">
+  <nav>
+    <ul class="usa-sidenav-list">
+      <li>
+        <a {% if current[1] == 'getting-started' %}class="usa-current"{% endif %} href="{{ site.baseurl }}/getting-started/">Getting started</a>
+      </li>
+      <li>
+        <a {% if current[1] == 'visual-style' %}class="usa-current"{% endif %} href="{{ site.baseurl }}/visual-style/">Visual style</a>
+        <ul class="usa-sidenav-sub_list visual-style-sublist">
+          <li>
+            <a href="{{ site.baseurl }}/visual-style/#typography">Typography</a>
+            <ul class="usa-sidenav-sub_list">
+              <li>
+                <a href="{{ site.baseurl }}/visual-style/#typefaces">Typefaces</a>
+              </li>
+              <li>
+                <a href="{{ site.baseurl }}/visual-style/#pairings">Pairings and styles</a>
+              </li>
+              <li>
+                <a href="{{ site.baseurl }}/visual-style/#typesetting">Typesetting</a>
+              </li>
+              <li>
+                <a href="{{ site.baseurl }}/visual-style/#links">Links</a>
+              </li>
+              <li>
+                <a href="{{ site.baseurl }}/visual-style/#lists">Lists</a>
+              </li>
+            </ul>
+          </li>
 
 
 <h3> <strong>Let's Get Started!</strong></h3>

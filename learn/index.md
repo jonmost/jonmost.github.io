@@ -127,9 +127,9 @@ Specialized videos are a great resource for discovering new acquisition strategi
 
 	  <h3>Read a Case Study</h3>
 	  <dl>
-	  <p>Now that you have had an opportunity to familiarize yourself with the fundamentals and best practices of <em>Digital Service Acquisitions</em> it is time to role up your sleeves and dig a little deeper. Case Studies are a great way to really immerse yourself in the experience. <strong>You are not alone;</strong> select a case study below and read first hand, the experience, struggles, and accomplishments of your fellow acquisition professionals as they took their unique journey.
+	  <p>Now that you have had an opportunity to familiarize yourself with the fundamentals and best practices of <em>Digital Service Acquisitions</em> it is time to roll up your sleeves and dig a little deeper. Case Studies are a great way to really immerse yourself in the experience. <strong>You are not alone;</strong> select a case study below and read first hand, the experience, struggles, and accomplishments of your fellow acquisition professionals as they took their unique journey.
 	   <ul>
-	   <li><a href="https://www.whitehouse.gov/sites/default/files/microsites/ostp/innovative_contracting_case_studies_2014_-_august.pdf">Innoavate Contracting Case Studies</a></li>
+	   <li><a href="https://www.whitehouse.gov/sites/default/files/microsites/ostp/innovative_contracting_case_studies_2014_-_august.pdf">Innovate Contracting Case Studies</a></li>
 	   <li><a href="http://www.agilegovleaders.org/case-studies/doj/">Case Study: Agile Government and The Department of Justice</a></li>
 	   <li><a href="http://www.agilegovleaders.org/case-studies/gsa/">Case Study: Agile Government and the General Services Administration (Integrated Award Environment)</a></li>
 	    </dl>

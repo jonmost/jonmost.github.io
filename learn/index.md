@@ -8,21 +8,6 @@ title: Getting started
 <link rel="stylesheet" href="http://jonmost.github.io/dist/css/google-fonts.css">
 <script src="http://jonmost.github.io/dist/js/components.js"></script>
 
-<div class="usa-grid">
-    <aside class="usa-width-one-fourth">
-      <ul class="usa-sidenav-list">
-        <li>
-          <a class="usa-current" href="#">Current page</a>
-        </li>
-        <li>
-          <a href="#">Parent link</a>
-        </li>
-        <li>
-          <a href="#">Parent link</a>
-        </li>
-      </ul>
-    </aside>
-  </div>
 
 <a class="skipnav" href="#main-content">Skip main navigation</a>
 

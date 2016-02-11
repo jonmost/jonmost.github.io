@@ -51,7 +51,7 @@ title: Getting started
               Before embarking on an acquisition you should become familiar with the guiding government best practices
               <p></p>
                <a class="usa-button-hover" type="button" target="blank" href="https://playbook.cio.gov/">Read the Playbook</a>
-               <a class="usa-button-hover" type="button" href="https://playbook.cio.gov/techfar/">The TechFar Handbook</a>
+               <a class="usa-button-hover" type="button" arget="blank" href="https://playbook.cio.gov/techfar/">Read the Handbook</a>
              
                
              <p></p>
@@ -71,7 +71,7 @@ title: Getting started
 	  <h3>Watch a video</h3>
 <P> <strong>Not all training has to be done in the classroom!</strong></p>
 Specialized videos are a great resource for discovering new acquisition strategies. The links below provide valuable lessons from acquisition experts that can help you better understand the opportunities, methods, and challenges around Digital Service Acquisitions. 
-<p><a href="https://www.fai.gov/media_library/items/show/81/">Agile Acquisition 101</a>.
+<p><a arget="blank" href="https://www.fai.gov/media_library/items/show/81/">Agile Acquisition 101</a>.
 </p>
 
 	  <h3>Listen to a Podcast</h3>
@@ -130,10 +130,10 @@ Specialized videos are a great resource for discovering new acquisition strategi
 	  <dl>
 	  <p>Now that you have had an opportunity to familiarize yourself with the fundamentals and best practices of <em>Digital Service Acquisitions</em> it is time to roll up your sleeves and dig a little deeper. Case Studies are a great way to really immerse yourself in the experience. <strong>You are not alone;</strong> select a case study below and read first hand, the experience, struggles, and accomplishments of your fellow acquisition professionals as they took their unique journey.
 	   <ul>
-	   <li><a href="https://www.whitehouse.gov/sites/default/files/microsites/ostp/innovative_contracting_case_studies_2014_-_august.pdf">Innovate Contracting Case Studies</a></li>
-	   <li><a href="http://www.agilegovleaders.org/case-studies/doj/">Case Study: Agile Government and The Department of Justice</a></li>
-	   <li><a href="http://www.agilegovleaders.org/case-studies/gsa/">Case Study: Agile Government and the General Services Administration (Integrated Award Environment)</a></li>
-	     <li><a href="/assets/Innovation_is_a_Contract_Sport__Ways_that_agencies_can_achieve_innovative_outcomes_through_acquisitions-2016%2002%2006.pdf">Innovation is a Contract Sport</a></li>
+	   <li><a arget="blank" href="https://www.whitehouse.gov/sites/default/files/microsites/ostp/innovative_contracting_case_studies_2014_-_august.pdf">Innovate Contracting Case Studies</a></li>
+	   <li><a arget="blank" href="http://www.agilegovleaders.org/case-studies/doj/">Case Study: Agile Government and The Department of Justice</a></li>
+	   <li><a arget="blank" href="http://www.agilegovleaders.org/case-studies/gsa/">Case Study: Agile Government and the General Services Administration (Integrated Award Environment)</a></li>
+	     <li><a arget="blank" href="/assets/Innovation_is_a_Contract_Sport__Ways_that_agencies_can_achieve_innovative_outcomes_through_acquisitions-2016%2002%2006.pdf">Innovation is a Contract Sport</a></li>
 	    </dl>
 	  </ul></div>
 

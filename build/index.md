@@ -44,16 +44,16 @@ Currently we offer two methods for cost estimation. The first, <strong>App Estim
 <p>Choose your estimation tool below:</p>
 
   <div class="button_wrapper">
-    <a class="usa-button-hover" type="button" href="https://pre-award.herokuapp.com">App Estimator</a>
-    <a class="usa-button-hover" type="button" href="https://acquisition-planning-beta.herokuapp.com/agile_estimator">Agile Team Estimator</a>
+    <a class="usa-button-hover" type="button" target="blank" href="https://pre-award.herokuapp.com">Try the App Estimator</a>
+    <a class="usa-button-hover" type="button" target="blank" href="https://acquisition-planning-beta.herokuapp.com/agile_estimator">Download the Agile Team Estimator</a>
  
   </div>
  <p></p>
 
-Click on the <strong>Playbook-In-Action</strong> button below to get started creating a Statement of Objective based on the <a href="https://playbook.cio.gov/">Digital Service Play Book</a>. This is still an alpha version so feedback is appreciated. 
+Click on the <strong>"Run the Plays"</strong> button below to get started creating a Statement of Objective based on the <a href="https://playbook.cio.gov/">Digital Service Play Book</a>. This is still an alpha version so feedback is appreciated. 
 <p></p>
 <div class="button_wrapper">
-   <a class="usa-button-primary-alt usa-button-active" type="button" href="https://acquisition-planning-beta.herokuapp.com">Playbook-In-Action</a>
+   <a class="usa-button-primary-alt usa-button-active" type="button" target="blank"href="https://acquisition-planning-beta.herokuapp.com">Run the Plays</a>
   </div>
 
 
@@ -62,34 +62,34 @@ Click on the <strong>Playbook-In-Action</strong> button below to get started cre
 <h3>Digital Contracting Cookbook</h3>
 This guide created by 18F provides information and suggestions about how to acquire digital services. This is an open source product so contributions are encouraged. 
 <p></p>
-<a class="usa-button-primary-alt usa-button-active" type="button" href="https://pages.18f.gov/contracting-cookbook/">Digital Contracting Cookbook</a>
+<a class="usa-button-primary-alt usa-button-active" type="button" target="blank" href="https://pages.18f.gov/contracting-cookbook/">View the Digital Contracting Cookbook</a>
 
 <p></p>
 <h3>18F Method Cards</h3>
 Method Cards are created to add rigor and structure to agile development, build a shared vocabulary for each method among 18F staff and partner agencies, and to give less experienced or new researchers a gateway into well-documented and proven research methods, supported by other 18F team members.
 <p></p>
-<a class="usa-button-primary-alt usa-button-active" type="button" href="https://methods.18f.gov/">18F Method Cards</a>
+<a class="usa-button-primary-alt usa-button-active" type="button" target="blank" href="https://methods.18f.gov/">See the 18F Method Cards</a>
 
 <p></p>
 
 <h3>Templates</h3>
-<P><a href="/assets/DigitalServiceSOO.docx">Statement of Objectives Template</a></P>
-<p><a href="/assets/Agile_Task_Order_IGCE_Example_-Sec_508_Remediated.docx">Agile Task Order FFP Independent Government Cost Estimate (IGCE) Template Example</a></p>
-<P><a href="/assets/UX%20Contract%20Provisions.docx">UX Contract Provisions</a></P>
+<P><a target="blank" href="/assets/DigitalServiceSOO.docx">Statement of Objectives Template</a></P>
+<p><a target="blank" href="/assets/Agile_Task_Order_IGCE_Example_-Sec_508_Remediated.docx">Agile Task Order FFP Independent Government Cost Estimate (IGCE) Template Example</a></p>
+<P><a target="blank" href="/assets/UX%20Contract%20Provisions.docx">UX Contract Provisions</a></P>
  
 
 
 <h3>Samples</h3>
-<p><a href="/assets/Agile%20Task%20Order%20Example.docx">Request For Quotes System Modernization Sample</a></p>
-<p><a href="/assets/CRMTaskOrder%20Sample%20DRAFT.docx">Request For Quote Enterprise Collaboration and Customer Relationship Management Correspondence System Implementation</a></p>
+<p><a target="blank" href="/assets/Agile%20Task%20Order%20Example.docx">Request For Quotes System Modernization Sample</a></p>
+<p><a target="blank" href="/assets/CRMTaskOrder%20Sample%20DRAFT.docx">Request For Quote Enterprise Collaboration and Customer Relationship Management Correspondence System Implementation</a></p>
 
 
 <h3>Vehicles</h3>
 Government-wide or Agency specific vehicles that specifically support digital service procurements
 <p></p>
-<a href="http://www.gsa.gov/portal/content/120966">SalesForce Governmentwide BPA</a>
+<a target="blank" href="http://www.gsa.gov/portal/content/120966">SalesForce Governmentwide BPA</a>
 <p></p>
-<a href="https://18f.gsa.gov/2015/08/28/announcing-the-agile-BPA-awards/">18F Agile BPA – Alpha Version</a>
+<a target="blank" href="https://18f.gsa.gov/2015/08/28/announcing-the-agile-BPA-awards/">18F Agile BPA – Alpha Version</a>
 
 
 
@@ -98,7 +98,7 @@ Government-wide or Agency specific vehicles that specifically support digital se
       <p>Help us make it better.</p>
   
     <div class="usa-cta">
-      <a class="usa-button usa-button-secondary" href="https://github.com/jonmost/jonmost.github.io">Contribute on GitHub</a>
+      <a class="usa-button usa-button-secondary" target="blank" href="https://github.com/jonmost/jonmost.github.io">Contribute on GitHub</a>
     </div>
     <p>Or drop us an email at <a href="mailto:jmostowski@omb.eop.gov">jmostowski@omb.eop.gov</a></p>
   </div>

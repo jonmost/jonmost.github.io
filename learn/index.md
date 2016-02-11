@@ -37,7 +37,7 @@ title: Getting started
       <nav>
       
       </nav>
-	{% include sidenav.html %}
+	
 
  <div class="usa-banner-content" id="main-content">
      <h1>TechFar Hub - Discover It</h1>

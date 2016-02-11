@@ -1,52 +1,24 @@
 <!DOCTYPE html>
-<html>
-<head>
-{% include header.html %}
+<html lang="en">
+  
+  <head>
+    {% include head.html %}
+  </head>
 
-<!-- add DAP header -->
-<script d="_fed_an_js_tag"
-type="text/javascript"
-src=”/static/path/federated­analytics.all.min.js”
-?agency=DOC
-&sub­agency=NIST
-&vcto=6
-&s>  
-</script>
+  <body>
 
+  	{% include navbar.html %}
+	
+  	{% include sidenav.html %}
 
-</head>
-<body>
+    <section id="main" class="main-content" role="main">
+      {{ content }}
+    </section>
 
-  {{ content }}
-  <footer role="contentInfo" class="site-footer">
-    <div class="section-container">
-      <div class="section-content">
-        <div class="row">
-          <nav class="footer-nav">
-            <ul>
-               <li><a href="{{ site.baseurl }}/learn">Discover It</a></li>
-	      <li><a href="{{ site.baseurl }}/community">Discuss It</a></li>
-	      <li><a href="{{ site.baseurl }}/build">Do It</a></li>
-	      <li><a href="mailto:Jmostowski@omb.eop.gov?subject=TechFAR Hub%20&#038;,%0A%0A[Your%20name]%0A[Your%20organization]%0A[Your%20contact%20information]%0A[Your%20category%20(consumer,utility,developer)]%0A[Your%20energy%20provider]">Feedback</a></li>
-	      <li><a href="https://github.com/green-button" target="_blank"><i class="fa fa-github"></i> Github</a></li>
-            </ul>
-          </nav>
-        </div>
-        <div class="row credits">
-                {% if page.title == "Home" %}<br>"Connecting Two Worlds" by <a href="https://www.flickr.com/photos/133006409@N08/21990203529/">Kristen Gmerek</a> and released under <a href="https://www.flickr.com/search/?text=bridge&license=7%2C9%2C10">CC BY 2.0</a>{% endif %}
-        </div>
-      </div>
-    </div>
-  </footer>
-  <script src="{{ site.baseurl }}/static/js/jquery.js"></script>
-  <script src="{{ site.baseurl }}/static/js/init.js"></script>
-  <script>
-    (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
-    function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
-    e=o.createElement(i);r=o.getElementsByTagName(i)[0];
-    e.src='//www.google-analytics.com/analytics.js';
-    r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
-    ga('create','UA-30243410-1');ga('send','pageview');
-  </script>
-</body>
+    {% include analytics.html %}
+    {% include scripts.html %}
+
+  </body>
+
 </html>
+

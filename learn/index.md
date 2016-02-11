@@ -8,9 +8,7 @@ title: Getting started
 <link rel="stylesheet" href="http://jonmost.github.io/dist/css/google-fonts.css">
 <script src="http://jonmost.github.io/dist/js/components.js"></script>
 
- <head>
-5	    {% include head.html %}
-6	  </head>
+
 
 <a class="skipnav" href="#main-content">Skip main navigation</a>
 
@@ -44,7 +42,7 @@ title: Getting started
  <div class="usa-banner-content" id="main-content">
      <h1>TechFar Hub - Discover It</h1>
 
-
+test
  
      <h2>Discover Digital Service Acquisitions</h2>
        

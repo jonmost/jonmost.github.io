@@ -50,7 +50,7 @@ title: Getting started
          
               Before embarking on an acquisition you should become familiar with the guiding government best practices
               <p></p>
-               <a class="usa-button-hover" type="button" href="https://playbook.cio.gov/">Digital Service Playbook</a>
+               <a class="usa-button-hover" type="button" target="blank" href="https://playbook.cio.gov/">Read the Playbook</a>
                <a class="usa-button-hover" type="button" href="https://playbook.cio.gov/techfar/">The TechFar Handbook</a>
              
                

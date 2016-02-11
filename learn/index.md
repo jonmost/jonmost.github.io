@@ -43,21 +43,7 @@ title: Getting started
      <h1>TechFar Hub - Discover It</h1>
 
 
-  <div class="usa-grid">
-    <aside class="usa-width-one-fourth">
-      <ul class="usa-sidenav-list">
-        <li>
-          <a class="usa-current" href="#">Current page</a>
-        </li>
-        <li>
-          <a href="#">Parent link</a>
-        </li>
-        <li>
-          <a href="#">Parent link</a>
-        </li>
-      </ul>
-    </aside>
-  </div>   
+ 
      <h2>Discover Digital Service Acquisitions</h2>
        
 

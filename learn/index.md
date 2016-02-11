@@ -8,7 +8,9 @@ title: Getting started
 <link rel="stylesheet" href="http://jonmost.github.io/dist/css/google-fonts.css">
 <script src="http://jonmost.github.io/dist/js/components.js"></script>
 
-
+ <head>
+5	    {% include head.html %}
+6	  </head>
 
 <a class="skipnav" href="#main-content">Skip main navigation</a>
 

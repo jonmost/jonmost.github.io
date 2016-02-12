@@ -33,9 +33,6 @@ title: Getting started
         </div>
         <ul class="usa-button-list usa-unstyled-list">
           <li>
-              <a class="usa-button-outline usa-button-active" type="button" href="{{ site.baseurl }}/learn">Discover It</a>
-          </li><li>
-          </li><li>
               <a class="usa-button-outline usa-button-active" type="button" href="{{ site.baseurl }}/community">Discuss It</a>
           </li><li>
               <a class="usa-button-outline usa-button-active" type="button" href="{{ site.baseurl }}/build">Do It</a>

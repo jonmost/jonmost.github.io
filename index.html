@@ -9,8 +9,8 @@ title: Draft U.S. Web Design Standards
 <script src="/dist/js/components.js"></script>
 
 <a class="skipnav" href="#main-content">Skip main navigation</a>
-
-<header role="banner">
+<div class="main-content" role="main">
+<header class="usa-site-header" role="banner">
 
   <div class="usa-disclaimer">
     <div class="usa-grid">
@@ -25,10 +25,30 @@ title: Draft U.S. Web Design Standards
 
   <section class="usa-banner">
     <div class="usa-grid">
-      <nav>
-        <a class="usa-banner-link-top" href="https://github.com/jonmost/jonmost.github.io">View on GitHub</a>
+      <nav class="usa-site-navbar">
+        <div class="logo">
+          <h1>
+            <a accesskey="1" title="Home" aria-label="Home" href="{{ site.baseurl }}/">TechFAR Hub</a>
+          </h1>
+        </div>
+        <ul class="usa-button-list usa-unstyled-list">
+          <li>
+              <a class="usa-button-outline usa-button-active" type="button" href="{{ site.baseurl }}/learn">Discover It</a>
+          </li><li>
+              <a class="usa-button-outline usa-button-active" type="button" href="{{ site.baseurl }}/community">Discuss It</a>
+          </li><li>
+              <a class="usa-button-outline usa-button-active" type="button" href="{{ site.baseurl }}/build">Do It</a>
+          </li>
+        </ul>
       </nav>
-      <div class="usa-banner-content" id="main-content">
+    </div>
+  </section>
+</header>
+
+<div class="usa-banner-content" id="main-content">
+  <section class="usa-banner">
+    <div class="usa-grid">
+
         <h1>TechFAR Hub</h1>
         <h2 class="usa-font-lead">The TechFAR Hub provides resources to apply industry best practices to the world of Digital Service Acquisition across U.S. federal government</h2>
      Government procurement cycles do not keep pace with fast-changing technology and user needs. Waterfall development methods, complex specifications, and inflexible contracts all contribute. We need to adopt 
@@ -37,24 +57,8 @@ title: Draft U.S. Web Design Standards
        You will also find resources to engage with the Acquisition Community to ask questions and share your experiences to help others.
         Finally, the TechFAR Hub provides powerful tools and templates to get you started on your very own Digital Service Acquisition!
   
-     </div>
-  
-  
-   <div></div>    
- <p></p>
-  
- <div class="button_wrapper">
-    <a class="usa-button-outline" type="button" href="/learn">Discover It</a>
-    <a class="usa-button-outline usa-button-active" type="button" href="/community">Discuss It</a>
-    <a class="usa-button-outline usa-button-hover" type="button" href="/build">Do It</a>
-
-     </div>
-   </div>
- </section>
     </div>
   </section>
-  </header>
-  
  
 <section class="usa-section">
   <div class="usa-grid">
@@ -69,5 +73,5 @@ title: Draft U.S. Web Design Standards
     <p>Or drop us an email at <a href="mailto:jmostowski@omb.eop.gov">jmostowski@omb.eop.gov</a></p>
   </div>
 </section>
-
+</div>
 

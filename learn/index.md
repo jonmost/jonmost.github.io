@@ -8,11 +8,9 @@ title: Getting started
 <link rel="stylesheet" href="/dist/css/google-fonts.css">
 <script src="/dist/js/components.js"></script>
 
-
-
 <a class="skipnav" href="#main-content">Skip main navigation</a>
-
-<header role="banner">
+<div class="main-content" role="main">
+<header class="usa-site-header" role="banner">
 
   <div class="usa-disclaimer">
     <div class="usa-grid">
@@ -27,20 +25,32 @@ title: Getting started
 
   <section class="usa-banner">
     <div class="usa-grid">
-      <nav>
-        <a class="usa-banner-link-top" href="https://github.com/jonmost/jonmost.github.io">View on GitHub</a>
+      <nav class="usa-site-navbar">
+        <div class="logo">
+          <h1>
+            <a accesskey="1" title="Home" aria-label="Home" href="{{ site.baseurl }}/">TechFAR Hub</a>
+          </h1>
+        </div>
+        <ul class="usa-button-list usa-unstyled-list">
+          <li>
+              <a class="usa-button-outline usa-button-active" type="button" href="{{ site.baseurl }}/learn">Discover It</a>
+          </li><li>
+          </li><li>
+              <a class="usa-button-outline usa-button-active" type="button" href="{{ site.baseurl }}/community">Discuss It</a>
+          </li><li>
+              <a class="usa-button-outline usa-button-active" type="button" href="{{ site.baseurl }}/build">Do It</a>
+          </li>
+        </ul>
       </nav>
-      <div class="usa-banner-content" id="main-content">
-      
-       <section class="usa-banner">
-    <div class="usa-grid">
-      <nav>
-      
-      </nav>
-	
+    </div>
+  </section>
+</header>
 
- <div class="usa-banner-content" id="main-content">
-     <h1>TechFar Hub - Discover It</h1>
+<div class="usa-banner-content" id="main-content">
+  <section class="usa-banner">
+    <div class="usa-grid">
+
+     <h1>TechFAR Hub - Discover It</h1>
 
 
  
@@ -54,14 +64,7 @@ title: Getting started
               <p></p>
                <a class="usa-button-hover" type="button" target="blank" href="https://playbook.cio.gov/">Read the Playbook</a>
                <a class="usa-button-hover" type="button" target="blank" href="https://playbook.cio.gov/techfar/">Read the Handbook</a>
-             
-               
-             <p></p>
-             
-                </div>
-          </div>
-        </div>
-      </div></div>
+</div>
 
    <section class="usa-banner">
     <div class="usa-grid">
@@ -138,13 +141,6 @@ Specialized videos are a great resource for discovering new acquisition strategi
 	     <li><a target="blank" href="/assets/Innovation_is_a_Contract_Sport__Ways_that_agencies_can_achieve_innovative_outcomes_through_acquisitions-2016%2002%2006.pdf">Innovation is a Contract Sport</a></li>
 	    </dl>
 	  </ul></div>
-
- <div class="button_wrapper">
-    <a class="usa-button-outline" type="button" href="/">Home</a>
-    <a class="usa-button-outline usa-button-active" type="button" href="/community">Discuss It</a>
-    <a class="usa-button-outline usa-button-hover" type="button" href="/build">Do It</a>
-</div>
-
 </section>
 
       

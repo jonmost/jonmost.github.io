@@ -48,7 +48,7 @@ title: Do It
 <section class="usa-banner">
     <div class="usa-grid">
       <nav>
-        <h1>TechFAR Hub - Do IT</h1>
+        <h1>TechFAR Hub - Do It</h1>
       </nav>
 <h2>How to Create A Digital Service Acquisition</h2>
 
@@ -118,10 +118,5 @@ Government-wide or Agency specific vehicles that specifically support digital se
     <p>Or drop us an email at <a href="mailto:jmostowski@omb.eop.gov">jmostowski@omb.eop.gov</a></p>
   </div>
 
- <div class="button_wrapper">
-    <a class="usa-button-outline" type="button" href="jonmost.github.io">Home</a>
-    <a class="usa-button-outline usa-button-active" type="button" href="jonmost.github.io/learn">Discover It</a>
-    <a class="usa-button-outline usa-button-hover" type="button" href="jonmost.github.io/community">Discuss It</a>
-     </div>
      
-     </section>
+</section>

@@ -4,9 +4,9 @@ layout: styleguide
 title: Getting started
 ---
 
-<link rel="stylesheet" href="http://jonmost.github.io/dist/css/main.css">
-<link rel="stylesheet" href="http://jonmost.github.io/dist/css/google-fonts.css">
-<script src="http://jonmost.github.io/dist/js/components.js"></script>
+<link rel="stylesheet" href="/dist/css/main.css">
+<link rel="stylesheet" href="/dist/css/google-fonts.css">
+<script src="/dist/js/components.js"></script>
 
 
 
@@ -17,7 +17,7 @@ title: Getting started
   <div class="usa-disclaimer">
     <div class="usa-grid">
       <span class="usa-disclaimer-official">
-        <img class="usa-flag_icon" alt="U.S. flag signifying that this is a United States federal government website" src="{{ site.baseurl }}/jonmost.github.io-V2/assets/img/us_flag_small.png">
+        <img class="usa-flag_icon" alt="U.S. flag signifying that this is a United States federal government website" src="{{ site.baseurl }}/dist/img/us_flag_small.png">
         An official website of the United States government
       </span>
       <span class="usa-disclaimer-stage">This site is currently in alpha. </span>
@@ -140,9 +140,9 @@ Specialized videos are a great resource for discovering new acquisition strategi
 	  </ul></div>
 
  <div class="button_wrapper">
-    <a class="usa-button-outline" type="button" href="http://jonmost.github.io/">Home</a>
-    <a class="usa-button-outline usa-button-active" type="button" href="http://jonmost.github.io/community">Discuss It</a>
-    <a class="usa-button-outline usa-button-hover" type="button" href="http://jonmost.github.io/build">Do It</a>
+    <a class="usa-button-outline" type="button" href="/">Home</a>
+    <a class="usa-button-outline usa-button-active" type="button" href="/community">Discuss It</a>
+    <a class="usa-button-outline usa-button-hover" type="button" href="/build">Do It</a>
 </div>
 
 </section>

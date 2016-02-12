@@ -6,7 +6,7 @@ title: Do It
 
 <link rel="stylesheet" href="{{ site.baseurl }}/dist/css/main.css">
 <link rel="stylesheet" href="{{ site.baseurl }}/dist/css/google-fonts.css">
-<script src="http://jonmost.github.io/dist/js/components.js"></script>
+<script src="/dist/js/components.js"></script>
 
 <a class="skipnav" href="#main-content">Skip main navigation</a>
 

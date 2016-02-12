@@ -4,9 +4,9 @@ layout: homepage
 title: Draft U.S. Web Design Standards
 ---
 
-<link rel="stylesheet" href="http://jonmost.github.io/dist/css/main.css">
-<link rel="stylesheet" href="http://jonmost.github.io/dist/css/google-fonts.css">
-<script src="http://jonmost.github.io/dist/js/components.js"></script>
+<link rel="stylesheet" href="/dist/css/main.css">
+<link rel="stylesheet" href="/dist/css/google-fonts.css">
+<script src="/dist/js/components.js"></script>
 
 <a class="skipnav" href="#main-content">Skip main navigation</a>
 
@@ -15,7 +15,7 @@ title: Draft U.S. Web Design Standards
   <div class="usa-disclaimer">
     <div class="usa-grid">
       <span class="usa-disclaimer-official">
-        <img class="usa-flag_icon" alt="U.S. flag signifying that this is a United States federal government website" src="{{ site.baseurl }}/jonmost.github.io-V2/assets/img/us_flag_small.png">
+        <img class="usa-flag_icon" alt="U.S. flag signifying that this is a United States federal government website" src="{{ site.baseurl }}/dist/img/us_flag_small.png">
         An official website of the United States government
       </span>
       <span class="usa-disclaimer-stage">This site is currently in alpha. </span>

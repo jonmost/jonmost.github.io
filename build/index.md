@@ -1,16 +1,17 @@
 ---
-permalink: /build
+Permalink: /build
 layout: styleguide
 title: Do It
 ---
 
-<link rel="stylesheet" href="http://jonmost.github.io/dist/css/main.css">
-<link rel="stylesheet" href="http://jonmost.github.io/dist/css/google-fonts.css">
+<link rel="stylesheet" href="{{ site.baseurl }}/dist/css/main.css">
+<link rel="stylesheet" href="{{ site.baseurl }}/dist/css/google-fonts.css">
 <script src="http://jonmost.github.io/dist/js/components.js"></script>
 
 <a class="skipnav" href="#main-content">Skip main navigation</a>
 
-<header role="banner">
+<div class="main-content" role="main">
+<header class="usa-site-header" role="banner">
 
   <div class="usa-disclaimer">
     <div class="usa-grid">
@@ -25,11 +26,25 @@ title: Do It
 
   <section class="usa-banner">
     <div class="usa-grid">
-      <nav>
-        <a class="usa-banner-link-top" href="https://github.com/jonmost/jonmost.github.io">View on GitHub</a>
+      <nav class="usa-site-navbar">
+        <div class="logo">
+          <h1>
+            <a accesskey="1" title="Home" aria-label="Home" href="{{ site.baseurl }}/">TechFAR Hub</a>
+          </h1>
+        </div>
+        <ul class="usa-button-list usa-unstyled-list">
+          <li>
+              <a class="usa-button-outline usa-button-active" type="button" href="{{ site.baseurl }}/learn">Discover It</a>
+          </li><li>
+              <a class="usa-button-outline usa-button-active" type="button" href="{{ site.baseurl }}/community">Discuss It</a>
+          </li>
+        </ul>
       </nav>
-      <div class="usa-banner-content" id="main-content">
+    </div>
+  </section>
+</header>
 
+      <div class="usa-banner-content" id="main-content">
 <section class="usa-banner">
     <div class="usa-grid">
       <nav>

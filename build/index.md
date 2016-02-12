@@ -15,7 +15,7 @@ title: Do It
   <div class="usa-disclaimer">
     <div class="usa-grid">
       <span class="usa-disclaimer-official">
-        <img class="usa-flag_icon" alt="U.S. flag signifying that this is a United States federal government website" src="{{ site.baseurl }}/jonmost.github.io-V2/assets/img/us_flag_small.png">
+        <img class="usa-flag_icon" alt="U.S. flag signifying that this is a United States federal government website" src="{{ site.baseurl }}/dist/img/us_flag_small.png">
         An official website of the United States government
       </span>
       <span class="usa-disclaimer-stage">This site is currently in alpha. </span>

@@ -32,10 +32,13 @@ title: Getting started
           </h1>
         </div>
         <ul class="usa-button-list usa-unstyled-list">
+         <li>
+              <a class="usa-button-active" type="button" href="{{ site.baseurl }}/learn">Discover It</a>
+          </li>
           <li>
-              <a class="usa-button-outline usa-button-active" type="button" href="{{ site.baseurl }}/community">Discuss It</a>
+              <a class="usa-button-hover" type="button" href="{{ site.baseurl }}/community">Discuss It</a>
           </li><li>
-              <a class="usa-button-outline usa-button-active" type="button" href="{{ site.baseurl }}/build">Do It</a>
+              <a class="usa-button-hover" type="button" href="{{ site.baseurl }}/build">Do It</a>
           </li>
         </ul>
       </nav>
@@ -59,8 +62,8 @@ title: Getting started
          
               Before embarking on an acquisition you should become familiar with the guiding government best practices
               <p></p>
-               <a class="usa-button-hover" type="button" target="blank" href="https://playbook.cio.gov/">Read the Playbook</a>
-               <a class="usa-button-hover" type="button" target="blank" href="https://playbook.cio.gov/techfar/">Read the Handbook</a>
+               <a class="usa-button-outline usa-button-active" type="button" target="blank" href="https://playbook.cio.gov/">Read the Playbook</a>
+               <a class="usa-button-outline usa-button-active" type="button" target="blank" href="https://playbook.cio.gov/techfar/">Read the Handbook</a>
 </div>
 
    <section class="usa-banner">

@@ -31,11 +31,14 @@ title:
             <a accesskey="1" title="Home" aria-label="Home" href="{{ site.baseurl }}/">TechFAR Hub</a>
           </h1>
         </div>
-        <ul class="usa-button-list usa-unstyled-list">
+       <ul class="usa-button-list usa-unstyled-list">
+         <li>
+              <a class="usa-button-hover" type="button" href="{{ site.baseurl }}/learn">Discover It</a>
+          </li>
           <li>
-              <a class="usa-button-outline usa-button-active" type="button" href="{{ site.baseurl }}/community">Discuss It</a>
+              <a class="usa-button-active" type="button" href="{{ site.baseurl }}/community">Discuss It</a>
           </li><li>
-              <a class="usa-button-outline usa-button-active" type="button" href="{{ site.baseurl }}/build">Do It</a>
+              <a class="usa-button-hover" type="button" href="{{ site.baseurl }}/build">Do It</a>
           </li>
         </ul>
       </nav>
@@ -57,7 +60,7 @@ Spreading the word, telling about the successes and failures, and having a place
 Stack Exchange is a Question and Answer website that uses crowd sourcing to build a community around certain topics. In order to provide a public space for the discussion of Government IT Procurement, the US Digital Service has created a proposed topic on Stack Exchange. We are trying to get commitment that this topic deserves its own site so it is currently in “Area 51” which is the Stack Exchange proposal development site. It is still in the building phase, so help support the community by following and contributing to the discussion!
 
 <p></p>
-<a class="usa-button-primary-alt usa-button-active" type="button" target="blank" href="http://area51.stackexchange.com/proposals/95077/digital-service-acquisitions?referrer=iNHbk2AgvcNzGkfgmq2BHw2">Visit IT Procurement</a>
+<a class="usa-button-hover" type="button" target="blank" href="http://area51.stackexchange.com/proposals/95077/digital-service-acquisitions?referrer=iNHbk2AgvcNzGkfgmq2BHw2">Visit IT Procurement</a>
  
 <p></p>
 <em>View the <a target="blank" href="http://opendata.stackexchange.com/" target="blank">Open Data Stack Exchange</a> site</em>

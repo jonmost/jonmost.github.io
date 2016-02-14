@@ -5,7 +5,6 @@ title: Do It
 ---
 
 <link rel="stylesheet" href="{{ site.baseurl }}/dist/css/main.css">
-<link rel="stylesheet" href="{{ site.baseurl }}/dist/css/main._scss/core">
 <link rel="stylesheet" href="{{ site.baseurl }}/dist/css/google-fonts.css">
 <script src="/dist/js/components.js"></script>
 

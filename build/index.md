@@ -49,7 +49,6 @@ title: Do It
 
       <div class="usa-banner-content" id="main-content">
 <section class="usa-banner">
-    <div class="usa-content">
     <div class="usa-grid">
       <nav>
         <h1>TechFAR Hub - Do It</h1>

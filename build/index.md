@@ -54,6 +54,7 @@ title: Do It
         <h1>TechFAR Hub - Do It</h1>
       </nav>
 <h2>How to Create A Digital Service Acquisition</h2>
+<hr width="50%>
 
 Guidance and Discussion are crucial to success in understanding what to implement in the digital service acquisition environment but when having to sit down and <em>do it</em>, the task may seem daunting. This section provides tools, samples, and templates that can help you get started.
 

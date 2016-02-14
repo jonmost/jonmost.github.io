@@ -1,6 +1,6 @@
 ---
 Permalink: /build
-layout: default
+layout: styleguide
 title: Do It
 ---
 

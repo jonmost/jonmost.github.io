@@ -72,7 +72,7 @@ Currently we offer two methods for cost estimation. The first, <strong>App Estim
 Click on the <strong>"Run the Plays"</strong> button below to get started creating a Statement of Objective based on the <a href="https://playbook.cio.gov/">Digital Service Play Book</a>. This is still an alpha version so feedback is appreciated. 
 <p></p>
 <div class="button_wrapper">
-   <a class="usa-button-outline usa-button-active" type="button" target="blank" href="https://acquisition-planning-beta.herokuapp.com">Run the Plays</a>
+   <a class="usa-button-outline usa-button-active" type="button" target="blank" href="https://playbook-in-action.apps.cloud.gov">Run the Plays</a>
   </div>
 
 

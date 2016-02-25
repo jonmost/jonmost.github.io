@@ -85,7 +85,7 @@ Specialized videos are a great resource for discovering new acquisition strategi
 	  </p>
 	    <H4>Behind the Buy</h4>
 	    
-	    <p>Anne Rung, Director of OFPP, has created an incredible series of podcasts called "Behind the Buy." Click on one of the audio links below and relax as you listen to audio stories told by members of the Federal acquisition workforce who have successfully executed best practice IT contracting strategies from the TechFAR and Digital Services Playbook to help their agency meet its mission.</p>
+	    <p>Anne Rung, Administrator of OFPP, has created an incredible series of podcasts called "Behind the Buy." Click on one of the audio links below and relax as you listen to audio stories told by members of the Federal acquisition workforce who have successfully executed best practice IT contracting strategies from the TechFAR and Digital Services Playbook to help their agency meet its mission.</p>
 	    
 <h5>Behind the Buy Podcast #1: Mark Naggar Interview</h5>
 <audio controls="controls">  

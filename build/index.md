@@ -1,7 +1,7 @@
 ---
 Permalink: /build
 layout: styleguide
-title: Do It
+title: Do IT
 ---
 
 <link rel="stylesheet" href="{{ site.baseurl }}/dist/css/main.css">
@@ -34,12 +34,12 @@ title: Do It
         </div>
       <ul class="usa-button-list usa-unstyled-list">
          <li>
-              <a class="usa-button-hover" type="button" href="{{ site.baseurl }}/learn">Discover It</a>
+              <a class="usa-button-hover" type="button" href="{{ site.baseurl }}/learn">Discover IT</a>
           </li>
           <li>
-              <a class="usa-button-hover" type="button" href="{{ site.baseurl }}/community">Discuss It</a>
+              <a class="usa-button-hover" type="button" href="{{ site.baseurl }}/community">Discuss IT</a>
           </li><li>
-              <a class="usa-button-active" type="button" href="{{ site.baseurl }}/build">Do It</a>
+              <a class="usa-button-active" type="button" href="{{ site.baseurl }}/build">Do IT</a>
           </li>
         </ul>
       </nav>
@@ -51,7 +51,7 @@ title: Do It
 <section class="usa-banner">
     <div class="usa-grid">
       <nav>
-        <h1>TechFAR Hub - Do It</h1>
+        <h1>TechFAR Hub - Do IT</h1>
       </nav>
 <h2>How to Create A Digital Service Acquisition</h2>
 

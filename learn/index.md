@@ -1,7 +1,7 @@
 ---
 permalink: /learn
 layout: styleguide
-title: Getting started
+title: Discover IT
 ---
 
 <link rel="stylesheet" href="/dist/css/main.css">
@@ -33,12 +33,12 @@ title: Getting started
         </div>
         <ul class="usa-button-list usa-unstyled-list">
          <li>
-              <a class="usa-button-active" type="button" href="{{ site.baseurl }}/learn">Discover It</a>
+              <a class="usa-button-active" type="button" href="{{ site.baseurl }}/learn">Discover IT</a>
           </li>
           <li>
-              <a class="usa-button-hover" type="button" href="{{ site.baseurl }}/community">Discuss It</a>
+              <a class="usa-button-hover" type="button" href="{{ site.baseurl }}/community">Discuss IT</a>
           </li><li>
-              <a class="usa-button-hover" type="button" href="{{ site.baseurl }}/build">Do It</a>
+              <a class="usa-button-hover" type="button" href="{{ site.baseurl }}/build">Do IT</a>
           </li>
         </ul>
       </nav>

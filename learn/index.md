@@ -50,7 +50,7 @@ title: Discover IT
   <section class="usa-banner">
     <div class="usa-grid">
 
-     <h1>TechFAR Hub - Discover It</h1>
+     <h1>TechFAR Hub - Discover IT</h1>
 
 
  

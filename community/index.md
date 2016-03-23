@@ -1,7 +1,7 @@
 ---
 permalink: /community
 layout: styleguide
-title: 
+title: Discuss IT
 ---
 
 <link rel="stylesheet" href="/dist/css/main.css">
@@ -33,12 +33,12 @@ title:
         </div>
        <ul class="usa-button-list usa-unstyled-list">
          <li>
-              <a class="usa-button-hover" type="button" href="{{ site.baseurl }}/learn">Discover It</a>
+              <a class="usa-button-hover" type="button" href="{{ site.baseurl }}/learn">Discover IT</a>
           </li>
           <li>
-              <a class="usa-button-active" type="button" href="{{ site.baseurl }}/community">Discuss It</a>
+              <a class="usa-button-active" type="button" href="{{ site.baseurl }}/community">Discuss IT</a>
           </li><li>
-              <a class="usa-button-hover" type="button" href="{{ site.baseurl }}/build">Do It</a>
+              <a class="usa-button-hover" type="button" href="{{ site.baseurl }}/build">Do IT</a>
           </li>
         </ul>
       </nav>
@@ -49,7 +49,7 @@ title:
 <div class="usa-banner-content" id="main-content">
   <section class="usa-banner">
     <div class="usa-grid">
- <h1>TechFAR Hub - Discuss It</h1>
+ <h1>TechFAR Hub - Discuss IT</h1>
  
  <h2>Digital Service Acquisition Communities</h2>
 Spreading the word, telling about the successes and failures, and having a place to ask questions from experts is an effective way to crowdsource common challenges. Digital communities thrive on the viral experience and the acquisition community should take advantage of this trend. 
@@ -67,7 +67,7 @@ Stack Exchange is a Question and Answer website that uses crowd sourcing to buil
 <p></p>
 
 
-  <h3>Let's Blog About It</h3>
+  <h3>Let's Blog About IT</h3>
 <p>An interactive Blog will be Coming Soon!</p>
 
 <p>In the meantime these informative blogs will help keep you connected with the government digital service efforts:</p>

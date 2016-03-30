@@ -4,6 +4,10 @@ layout: styleguide
 title: Discuss IT
 ---
 
+<aside class="sidenav">
+  Sidebar goes here!
+</aside>
+
 <link rel="stylesheet" href="/dist/css/main.css">
 <link rel="stylesheet" href="/dist/css/google-fonts.css">
 <script src="/dist/js/components.js"></script>

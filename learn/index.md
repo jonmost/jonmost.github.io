@@ -3,13 +3,13 @@ permalink: /learn
 layout: styleguide
 title: Discover IT
 ---
-
 <link rel="stylesheet" href="/dist/css/main.css">
 <link rel="stylesheet" href="/dist/css/google-fonts.css">
 <script src="/dist/js/components.js"></script>
 
+
 <a class="skipnav" href="#main-content">Skip main navigation</a>
-<div class="main-content" role="main">
+
 <header class="usa-site-header" role="banner">
 
   <div class="usa-disclaimer">
@@ -32,13 +32,12 @@ title: Discover IT
           </h1>
         </div>
         <ul class="usa-button-list usa-unstyled-list">
-         <li>
-              <a class="usa-button-active" type="button" href="{{ site.baseurl }}/learn">Discover IT</a>
-          </li>
           <li>
-              <a class="usa-button-hover" type="button" href="{{ site.baseurl }}/community">Discuss IT</a>
+              <a class="usa-button-outline usa-button-active" type="button" href="{{ site.baseurl }}/learn">Discover IT</a>
           </li><li>
-              <a class="usa-button-hover" type="button" href="{{ site.baseurl }}/build">Do IT</a>
+              <a class="usa-button-outline usa-button-active" type="button" href="{{ site.baseurl }}/community">Discuss IT</a>
+          </li><li>
+              <a class="usa-button-outline usa-button-active" type="button" href="{{ site.baseurl }}/build">Do IT</a>
           </li>
         </ul>
       </nav>
@@ -46,8 +45,13 @@ title: Discover IT
   </section>
 </header>
 
-<div class="usa-banner-content" id="main-content">
-  <section class="usa-banner">
+<aside class="sidenav">
+  Sidebar goes here!
+</aside>
+  
+
+<div class="main-content" role="main">
+  <section class="usa-section">
     <div class="usa-grid">
 
      <h1>TechFAR Hub - Discover IT</h1>

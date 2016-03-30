@@ -2257,15 +2257,31 @@ fieldset {
 .main-content {
   position: absolute;
   top: 4rem;
-  bottom: 0;
   right: 0;
-  width: 100%;
-  padding-bottom: 0;
+  bottom: 0;
   padding-top: 1em;
-}
+  padding-bottom: 0;
+  width: 100%;
+  z-index: -1; }
+  @media screen and (min-width: 600px) {
+    .main-content {
+      top: 124px; } }
+  .lt-ie9 .main-content {
+    width: 75%; }
+  @media screen and (min-width: 850px) {
+    .main-content {
+      width: calc(100% - 250px); }
+      .lt-ie9 .main-content {
+        width: 75%; } }
 
-@media screen and (min-width: 600px) {
-  .main-content {
-    top: 80px;
-  }
+aside.sidenav{
+  position: fixed;
+  top: 124px;
+  bottom: 0;
+  left: 0;
+  width: 250px;
+  border-right: 1px solid #aeb0b5;
+  padding: 5rem 3rem 3rem 3rem;
+  overflow: auto;
+  z-index: -1;
 }

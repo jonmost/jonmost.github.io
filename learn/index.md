@@ -73,7 +73,7 @@ title: Discover IT
 <h3> <strong>Let's Get Started!</strong></h3>
 
          
-              Before embarking on an acquisition you should become familiar with the guiding government best practices
+             <p> Before embarking on an acquisition you should become familiar with the guiding government best practices</p>
               <p></p>
                <a class="usa-button-outline usa-button-active" type="button" target="blank" href="https://playbook.cio.gov/">Read the Playbook</a>
                <a class="usa-button-outline usa-button-active" type="button" target="blank" href="https://playbook.cio.gov/techfar/">Read the Handbook</a>

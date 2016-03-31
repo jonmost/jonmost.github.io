@@ -45,10 +45,10 @@ title: Discover IT
           <a class="usa-current" href="{{ site.baseurl }}/learn">Discover IT</a>
         </li>
         <li>
-          <a href="{{ site.baseurl }}/Community">Discuss IT</a>
+           <a href="{{ site.baseurl }}/community">Discuss IT</a>
         </li>
         <li>
-          <a href="{{ site.baseurl }}/Build">Do IT</a>
+           <a href="{{ site.baseurl }}/build">Do IT</a>
         </li>
         <li>
           <a href="{{ site.baseurl }}/contribute">Contribute</a>

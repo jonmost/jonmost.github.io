@@ -35,7 +35,7 @@ title: Do IT
       </nav>
     </div>
   </section>
-</header>
+
 
 <aside class="sidenav">
  <div class="usa-grid">
@@ -58,6 +58,7 @@ title: Do IT
   </div>
 </aside>
   
+</header>
 
 <div class="main-content" role="main">
   <section class="usa-section">

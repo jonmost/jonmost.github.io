@@ -33,7 +33,14 @@ title: Discuss IT
             <a accesskey="1" title="Home" aria-label="Home" href="{{ site.baseurl }}/">TechFAR Hub</a>
           </h1>
         </div>
-
+     
+      <ul class="usa-button-list usa-unstyled-list">
+        <li>
+          <a class="usa-button usa-button-outline" type="button" target="blank" href="https://playbook-in-action.apps.cloud.gov">Run the Plays</a> 
+          </a>
+          </li>
+      </ul>
+  
       </nav>
     </div>
   </section>

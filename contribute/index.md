@@ -24,15 +24,22 @@ title: Contribute
   </div>
 
 
-  <section class="usa-banner">
+<section class="usa-banner">
     <div class="usa-grid">
       <nav class="usa-site-navbar">
         <div class="logo">
-          <h1>
+          <h1 class="usa-heading">
             <a accesskey="1" title="Home" aria-label="Home" href="{{ site.baseurl }}/">TechFAR Hub</a>
           </h1>
         </div>
-
+     
+      <ul class="usa-button-list usa-unstyled-list">
+        <li>
+          <a class="usa-button usa-button-outline" type="button" target="blank" href="https://playbook-in-action.apps.cloud.gov">Run the Plays</a> 
+          </a>
+          </li>
+      </ul>
+  
       </nav>
     </div>
   </section>
@@ -65,7 +72,7 @@ title: Contribute
   <section class="usa-section">
     <div class="usa-grid">
 
-        <h1>Contribute</h1>
+        <h1 class="usa-heading">Contribute</h1>
         <p>The draft TechFAR Hub alpha was created during the winter of 2016 by the procurement team at the U.S. Digital Service. We will continue to maintain and update these resources as we learn what works best for the people we serve.</p>
         <p>Help us make it better.</p>
 

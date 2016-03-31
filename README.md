@@ -1,6 +1,6 @@
 TechFAR Hub
 ======================
-This is the source code for http://jonmost.github.io. 
+This is the source code for https://github.com/jonmost/jonmost.github.io
 
 You can see the design preview: http://jonmost.github.io.
 <hr />

@@ -51,7 +51,79 @@ title: Do IT
 <section class="usa-banner">
     <div class="usa-grid">
       <nav>
-        <h1>TechFAR Hub - Do IT</h1>
+      
+
+<link rel="stylesheet" href="/dist/css/main.css">
+<link rel="stylesheet" href="/dist/css/google-fonts.css">
+<script src="/dist/js/components.js"></script>
+
+
+<a class="skipnav" href="#main-content">Skip main navigation</a>
+
+<header class="usa-site-header" role="banner">
+
+  <div class="usa-disclaimer">
+    <div class="usa-grid">
+      <span class="usa-disclaimer-official">
+        <img class="usa-flag_icon" alt="U.S. flag signifying that this is a United States federal government website" src="{{ site.baseurl }}/dist/img/us_flag_small.png">
+        An official website of the United States government
+      </span>
+      <span class="usa-disclaimer-stage">This site is currently in alpha. </span>
+    </div>
+  </div>
+
+
+  <section class="usa-banner">
+    <div class="usa-grid">
+      <nav class="usa-site-navbar">
+        <div class="logo">
+          <h1>
+            <a accesskey="1" title="Home" aria-label="Home" href="{{ site.baseurl }}/">TechFAR Hub</a>
+          </h1>
+        </div>
+        <ul class="usa-button-list usa-unstyled-list">
+          <li>
+              <a class="usa-button-outline usa-button-active" type="button" href="{{ site.baseurl }}/learn">Discover IT</a>
+          </li><li>
+              <a class="usa-button-outline usa-button-active" type="button" href="{{ site.baseurl }}/community">Discuss IT</a>
+          </li><li>
+              <a class="usa-button-outline usa-button-active" type="button" href="{{ site.baseurl }}/build">Do IT</a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </section>
+</header>
+
+<aside class="sidenav">
+ <div class="usa-grid">
+    <aside class="usa-width-one-third">
+      <ul class="usa-sidenav-list">
+        <li>
+          <a class="usa-current" href="{{ site.baseurl }}/">TechFAR Hub Home</a>
+        </li>
+        <li>
+          <a href="{{ site.baseurl }}/learn">Discover IT</a>
+        </li>
+        <li>
+          <a href="{{ site.baseurl }}/community">Discuss IT</a>
+        </li>
+        <li>
+          <a href="{{ site.baseurl }}/build">Do IT</a>
+        </li>
+        <li>
+          <a href="{{ site.baseurl }}/contribute">Contribute</a>
+        </li>
+      </ul>
+    </aside>
+  </div>
+</aside>
+  
+
+<div class="main-content" role="main">
+  <section class="usa-section">
+    <div class="usa-grid">
+  <h1>TechFAR Hub - Do IT</h1>
       </nav>
 <h2>How to Create A Digital Service Acquisition</h2>
 

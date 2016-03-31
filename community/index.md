@@ -68,12 +68,12 @@ title: Discuss IT
      <h1>TechFAR Hub - Discuss IT</h1>
  
  <h2>Digital Service Acquisition Communities</h2>
-Spreading the word, telling about the successes and failures, and having a place to ask questions from experts is an effective way to crowdsource common challenges. Digital communities thrive on the viral experience and the acquisition community should take advantage of this trend. 
+<p>Spreading the word, telling about the successes and failures, and having a place to ask questions from experts is an effective way to crowdsource common challenges. Digital communities thrive on the viral experience and the acquisition community should take advantage of this trend. </P>
 
 <p></p>
 
   <h3>Stack Exchange IT Procurement Discussion Board</h3>
-Stack Exchange is a Question and Answer website that uses crowd sourcing to build a community around certain topics. In order to provide a public space for the discussion of Government IT Procurement, the US Digital Service has created a proposed topic on Stack Exchange. We are trying to get commitment that this topic deserves its own site so it is currently in “Area 51” which is the Stack Exchange proposal development site. It is still in the building phase, so help support the community by following and contributing to the discussion!
+<p>Stack Exchange is a Question and Answer website that uses crowd sourcing to build a community around certain topics. In order to provide a public space for the discussion of Government IT Procurement, the US Digital Service has created a proposed topic on Stack Exchange. We are trying to get commitment that this topic deserves its own site so it is currently in “Area 51” which is the Stack Exchange proposal development site. It is still in the building phase, so help support the community by following and contributing to the discussion!</p>
 
 <p></p>
 <a class="usa-button-outline usa-button-active" type="button" target="blank" href="http://area51.stackexchange.com/proposals/95077/digital-service-acquisitions?referrer=iNHbk2AgvcNzGkfgmq2BHw2">Visit IT Procurement</a>

@@ -88,7 +88,7 @@ title: Discover IT
 
 	  <h3>Watch a video</h3>
 <P> <strong>Not all training has to be done in the classroom!</strong></p>
-<p>Specialized videos are a great resource for discovering new acquisition strategies. The links below provide valuable lessons from acquisition experts that can help you better understand the opportunities, methods, and challenges around Digital Service Acquisitions. </P
+<p>Specialized videos are a great resource for discovering new acquisition strategies. The links below provide valuable lessons from acquisition experts that can help you better understand the opportunities, methods, and challenges around Digital Service Acquisitions. </P>
 <p><a target="blank" href="https://www.fai.gov/media_library/items/show/81/">Agile Acquisition 101</a>.
 </p>
 

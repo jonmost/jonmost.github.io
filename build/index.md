@@ -42,7 +42,7 @@ title: Do IT
     <aside class="usa-width-one-third">
       <ul class="usa-sidenav-list">
         <li>
-          <a class="usa-current" href="{{ site.baseurl }}/">Do IT</a>
+          <a class="usa-current" href="{{ site.baseurl }}/build">Do IT</a>
         </li>
         <li>
           <a href="{{ site.baseurl }}/learn">Discover IT</a>

@@ -67,10 +67,10 @@ title: Do IT
       </nav>
 <h2>How to Create A Digital Service Acquisition</h2>
 
-Guidance and Discussion are crucial to success in understanding what to implement in the digital service acquisition environment but when having to sit down and <em>do it</em>, the task may seem daunting. This section provides tools, samples, and templates that can help you get started.
+<p>Guidance and Discussion are crucial to success in understanding what to implement in the digital service acquisition environment but when having to sit down and <em>do it</em>, the task may seem daunting. This section provides tools, samples, and templates that can help you get started.</p>
 
 <h2>Estimation Tools</h2>
-Currently we offer two methods for cost estimation. The first, <strong>App Estimator,</strong> will help you estimate the cost and resources associated with building a single app.  The Second, <strong>Agile Team Estimator</strong> can help build an Independent Government Cost Estimate (IGCE) for Agile Development services. 
+<p>Currently we offer two methods for cost estimation. The first, <strong>App Estimator,</strong> will help you estimate the cost and resources associated with building a single app.  The Second, <strong>Agile Team Estimator</strong> can help build an Independent Government Cost Estimate (IGCE) for Agile Development services. </p>
 <p>Choose your estimation tool below:</p>
 
   <div class="button_wrapper">
@@ -81,7 +81,7 @@ Currently we offer two methods for cost estimation. The first, <strong>App Estim
  <p></p>
 
 <h2>Requirement Tools</h2>
-Click on the <strong>"Run the Plays"</strong> button below to get started creating a Statement of Objective based on the <a href="https://playbook.cio.gov/">Digital Service Play Book</a>. This is still an alpha version so feedback is appreciated. 
+<p>Click on the <strong>"Run the Plays"</strong> button below to get started creating a Statement of Objective based on the <a href="https://playbook.cio.gov/">Digital Service Play Book</a>. This is still an alpha version so feedback is appreciated. </p>
 <p></p>
 <div class="button_wrapper">
    <a class="usa-button-outline usa-button-active" type="button" target="blank" href="https://playbook-in-action.apps.cloud.gov">Run the Plays</a>
@@ -91,13 +91,13 @@ Click on the <strong>"Run the Plays"</strong> button below to get started creati
 <p></P>
 
 <h2>Digital Contracting Cookbook</h2>
-This guide created by 18F provides information and suggestions about how to acquire digital services. This is an open source product so contributions are encouraged. 
+<p>This guide created by 18F provides information and suggestions about how to acquire digital services. This is an open source product so contributions are encouraged.</p> 
 <p></p>
 <a class="usa-button-outline usa-button-active" type="button" target="blank" href="https://pages.18f.gov/contracting-cookbook/">View the Digital Contracting Cookbook</a>
 
 <p></p>
 <h2>18F Method Cards</h2>
-Method Cards are created to add rigor and structure to agile development, build a shared vocabulary for each method among 18F staff and partner agencies, and to give less experienced or new researchers a gateway into well-documented and proven research methods, supported by other 18F team members.
+<p>Method Cards are created to add rigor and structure to agile development, build a shared vocabulary for each method among 18F staff and partner agencies, and to give less experienced or new researchers a gateway into well-documented and proven research methods, supported by other 18F team members.</p>
 <p></p>
 <a class="usa-button-outline usa-button-active" type="button" target="blank" href="https://methods.18f.gov/">See the 18F Method Cards</a>
 
@@ -116,7 +116,7 @@ Method Cards are created to add rigor and structure to agile development, build 
 
 
 <h2>Vehicles</h2>
-Government-wide or Agency specific vehicles that specifically support digital service procurements
+<p>Government-wide or Agency specific vehicles that specifically support digital service procurements</p>
 <p></p>
 <a target="blank" href="http://www.gsa.gov/portal/content/120966">SalesForce Governmentwide BPA</a>
 <p></p>
@@ -124,16 +124,6 @@ Government-wide or Agency specific vehicles that specifically support digital se
 
 
 
-      <h2>Contribute</h2>
-      <p>The draft TechFAR Hub alpha was created during the winter of 2016 by the procurement team at the U.S. Digital Service. We will continue to maintain and update these resources as we learn what works best for the people we serve.</p>
-      <p>Help us make it better.</p>
-  
-    <div class="usa-cta">
-      <a class="usa-button usa-button-secondary" target="blank" href="https://github.com/jonmost/jonmost.github.io">Contribute on GitHub</a>
-    </div>
-    <p>Or drop us an email at <a href="mailto:jmostowski@omb.eop.gov">jmostowski@omb.eop.gov</a></p>
-  </div>
 
-     
 
 </section>

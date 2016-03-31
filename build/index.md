@@ -3,56 +3,6 @@ Permalink: /build
 layout: styleguide
 title: Do IT
 ---
-
-<link rel="stylesheet" href="{{ site.baseurl }}/dist/css/main.css">
-<link rel="stylesheet" href="{{ site.baseurl }}/dist/css/google-fonts.css">
-<script src="/dist/js/components.js"></script>
-
-<a class="skipnav" href="#main-content">Skip main navigation</a>
-
-<div class="main-content" role="main">
-<header class="usa-site-header" role="banner">
-
-  <div class="usa-disclaimer">
-    <div class="usa-grid">
-      <span class="usa-disclaimer-official">
-        <img class="usa-flag_icon" alt="U.S. flag signifying that this is a United States federal government website" src="{{ site.baseurl }}/dist/img/us_flag_small.png">
-        An official website of the United States government
-      </span>
-      <span class="usa-disclaimer-stage">This site is currently in alpha. </span>
-    </div>
-  </div>
-
-
-  <section class="usa-banner">
-    <div class="usa-grid">
-      <nav class="usa-site-navbar">
-        <div class="logo">
-          <h1>
-            <a accesskey="1" title="Home" aria-label="Home" href="{{ site.baseurl }}/">TechFAR Hub</a>
-          </h1>
-        </div>
-      <ul class="usa-button-list usa-unstyled-list">
-         <li>
-              <a class="usa-button-hover" type="button" href="{{ site.baseurl }}/learn">Discover IT</a>
-          </li>
-          <li>
-              <a class="usa-button-hover" type="button" href="{{ site.baseurl }}/community">Discuss IT</a>
-          </li><li>
-              <a class="usa-button-active" type="button" href="{{ site.baseurl }}/build">Do IT</a>
-          </li>
-        </ul>
-      </nav>
-    </div>
-  </section>
-</header>
-
-      <div class="usa-banner-content" id="main-content">
-<section class="usa-banner">
-    <div class="usa-grid">
-      <nav>
-      
-
 <link rel="stylesheet" href="/dist/css/main.css">
 <link rel="stylesheet" href="/dist/css/google-fonts.css">
 <script src="/dist/js/components.js"></script>
@@ -123,7 +73,7 @@ title: Do IT
 <div class="main-content" role="main">
   <section class="usa-section">
     <div class="usa-grid">
-  <h1>TechFAR Hub - Do IT</h1>
+ <h1>TechFAR Hub - Do IT</h1>
       </nav>
 <h2>How to Create A Digital Service Acquisition</h2>
 
@@ -195,4 +145,5 @@ Government-wide or Agency specific vehicles that specifically support digital se
   </div>
 
      
+
 </section>

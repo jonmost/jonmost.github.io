@@ -90,7 +90,7 @@ title: Discuss IT
 <p></p>
 
 
-  <h3class="usa-heading">Let's Blog About IT</h3>
+  <h3 class="usa-heading">Let's Blog About IT</h3>
 <p>An interactive Blog will be Coming Soon!</p>
 
 <p>In the meantime these informative blogs will help keep you connected with the government digital service efforts:</p>

@@ -98,13 +98,13 @@ title: Discover IT
       </nav>
  <div class="usa-banner-content" id="main-content">
 
-	  <h3>#Watch a video</h3>
+	  <h3>Watch a video</h3>
 <P> <strong>Not all training has to be done in the classroom!</strong></p>
 <p>Specialized videos are a great resource for discovering new acquisition strategies. The links below provide valuable lessons from acquisition experts that can help you better understand the opportunities, methods, and challenges around Digital Service Acquisitions. </P>
 <p><a target="blank" href="https://www.fai.gov/media_library/items/show/81/">Agile Acquisition 101</a>.
 </p>
 
-	  <h3>#Listen to a Podcast</h3>
+	  <h3>Listen to a Podcast</h3>
 	  <dl>
 	  <p>Whether you are driving in your car or sitting at your desk, podcasts are a great way to learn about Digital Service Acquisitions. 
 	  </p>
@@ -156,7 +156,7 @@ title: Discover IT
    <source src="http://hwcdn.libsyn.com/p/3/4/c/34cc68d31f31177b/Responsive_Web_Design_64_-_U.S._Digital_Service.mp3?c_id=10372902&expiration=1455051806&hwt=a804010813361627dad194e66e8f7a39" />  
 </audio>
 </p>
-	  <h3>#Read a Case Study</h3>
+	  <h3>Read a Case Study</h3>
 	  <dl>
 	  <p>Now that you have had an opportunity to familiarize yourself with the fundamentals and best practices of <em>Digital Service Acquisitions</em> it is time to roll up your sleeves and dig a little deeper. Case Studies are a great way to really immerse yourself in the experience. <strong>You are not alone;</strong> select a case study below and read first hand, the experience, struggles, and accomplishments of your fellow acquisition professionals as they took their unique journey.
 <p>	   <ul>

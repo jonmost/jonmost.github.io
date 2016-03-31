@@ -50,7 +50,7 @@ title: Discuss IT
           <a href="{{ site.baseurl }}/learn">Discover IT</a>
         </li>
         <li>
-          <a href="{{ site.baseurl }}/Build">Do IT</a>
+          <a href="{{ site.baseurl }}/build">Do IT</a>
         </li>
         <li>
           <a href="{{ site.baseurl }}/contribute">Contribute</a>

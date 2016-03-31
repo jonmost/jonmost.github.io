@@ -32,7 +32,7 @@ title: Contribute
             <a accesskey="1" title="Home" aria-label="Home" href="{{ site.baseurl }}/">TechFAR Hub</a>
           </h1>
         </div>
-
+      
       </nav>
     </div>
   </section>
@@ -65,8 +65,9 @@ title: Contribute
 
 <div class="main-content" role="main">
   <section class="usa-section">
-    <div class="usa-grid">
-        <h1>Contribute</h1>
+    <div class=“usa-grid">
+
+<h1>Contribute</h1>
         <p>The draft TechFAR Hub alpha was created during the winter of 2016 by the procurement team at the U.S. Digital Service. We will continue to maintain and update these resources as we learn what works best for the people we serve.</p>
         <p>Help us make it better.</p>
       </div>

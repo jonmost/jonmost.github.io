@@ -2199,7 +2199,7 @@ fieldset {
     float: left;
     text-align: center;
     padding-top: 1.3rem;
-    width: 70%; }
+    width: 25%; }
 @media screen and (min-width: 850px) {
     .usa-site-header .usa-site-navbar .logo {
         padding-left: 3rem;

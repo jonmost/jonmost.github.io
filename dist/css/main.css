@@ -2265,6 +2265,8 @@ fieldset {
   z-index: -1; }
   p {
   max-width: 53rem; }
+  ul {
+  max-width: 53rem; }
   @media screen and (min-width: 600px) {
     .main-content {
       top: 124px; } }

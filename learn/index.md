@@ -48,10 +48,10 @@ title: Discover IT
             <a href="{{ site.baseurl }}/learn/#watch">Watch A Video</a>
             <ul class="usa-sidenav-sub_list">
               <li>
-                <a href="/#listen">Listen to A Podcast</a>
+                <a href="{{ site.baseurl }}/learn/#listen">Listen to A Podcast</a>
               </li>
               <li>
-                <a href="#read">Read a Case Study</a>
+                <a href="{{ site.baseurl }}/learn/#read">Read a Case Study</a>
               </li>
              
             </ul>

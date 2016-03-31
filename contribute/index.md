@@ -67,9 +67,9 @@ title: Contribute
         <h1>Contribute</h1>
         <p>The draft TechFAR Hub alpha was created during the winter of 2016 by the procurement team at the U.S. Digital Service. We will continue to maintain and update these resources as we learn what works best for the people we serve.</p>
         <p>Help us make it better.</p>
-      </div>
- <div>
+
+<p>
         <a class="usa-button usa-button-secondary" href="https://github.com/jonmost/jonmost.github.io">Contribute on GitHub</a>
-      </div>
-     <div> <p>Or drop us an email at <a href="mailto:jmostowski@omb.eop.gov">jmostowski@omb.eop.gov</a></p>
+    </p>
+ <p>Or drop us an email at <a href="mailto:jmostowski@omb.eop.gov">jmostowski@omb.eop.gov</a></p>
     </div>

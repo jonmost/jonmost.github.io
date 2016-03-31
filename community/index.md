@@ -90,6 +90,8 @@ title: Discuss IT
  <div class="button_wrapper">
     <a class="usa-button-secondary usa-button-hover" type="button" target="blank" href="https://digitalacquisitionpilot.wordpress.com/">Visit Digital Acquisition Pilot Blog</a>
     <a class="usa-button-secondary usa-button-hover" type="button" target="blank" href="http://gsablogs.gsa.gov/gsablog/">Visit GSA Blog</a>
+  </div>
+   <div class="button_wrapper">
     <a class="usa-button-secondary usa-button-hover" type="button" target="blank" href="https://18f.gsa.gov/blog/">Visit 18f Digital Service Blog</a>
     <a class="usa-button-secondary usa-button-hover" type="button" target="blank" href="https://medium.com/@USDigitalService 
 DigitalGov.Gov">Visit US Digital Service Blog</a>

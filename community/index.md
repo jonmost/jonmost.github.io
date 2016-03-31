@@ -37,7 +37,7 @@ title: Discuss IT
       </nav>
     </div>
   </section>
-</header>
+
 
 <aside class="sidenav">
  <div class="usa-grid">
@@ -60,6 +60,7 @@ title: Discuss IT
   </div>
 </aside>
   
+</header>
 
 <div class="main-content" role="main">
   <section class="usa-section">

@@ -8,8 +8,9 @@ title: Discuss IT
 <link rel="stylesheet" href="/dist/css/google-fonts.css">
 <script src="/dist/js/components.js"></script>
 
+
 <a class="skipnav" href="#main-content">Skip main navigation</a>
-<div class="main-content" role="main">
+
 <header class="usa-site-header" role="banner">
 
   <div class="usa-disclaimer">
@@ -31,20 +32,43 @@ title: Discuss IT
             <a accesskey="1" title="Home" aria-label="Home" href="{{ site.baseurl }}/">TechFAR Hub</a>
           </h1>
         </div>
-       <ul class="usa-button-list usa-unstyled-list">
-         <li>
-              <a class="usa-button-hover" type="button" href="{{ site.baseurl }}/learn">Discover IT</a>
-          </li>
+        <ul class="usa-button-list usa-unstyled-list">
           <li>
-              <a class="usa-button-active" type="button" href="{{ site.baseurl }}/community">Discuss IT</a>
+              <a class="usa-button-outline usa-button-active" type="button" href="{{ site.baseurl }}/learn">Discover IT</a>
           </li><li>
-              <a class="usa-button-hover" type="button" href="{{ site.baseurl }}/build">Do IT</a>
+              <a class="usa-button-outline usa-button-active" type="button" href="{{ site.baseurl }}/community">Discuss IT</a>
+          </li><li>
+              <a class="usa-button-outline usa-button-active" type="button" href="{{ site.baseurl }}/build">Do IT</a>
           </li>
         </ul>
       </nav>
     </div>
   </section>
 </header>
+
+<aside class="sidenav">
+ <div class="usa-grid">
+    <aside class="usa-width-one-third">
+      <ul class="usa-sidenav-list">
+        <li>
+          <a class="usa-current" href="{{ site.baseurl }}/">TechFAR Hub Home</a>
+        </li>
+        <li>
+          <a href="{{ site.baseurl }}/learn">Discover IT</a>
+        </li>
+        <li>
+          <a href="{{ site.baseurl }}/community">Discuss IT</a>
+        </li>
+        <li>
+          <a href="{{ site.baseurl }}/build">Do IT</a>
+        </li>
+        <li>
+          <a href="{{ site.baseurl }}/contribute">Contribute</a>
+        </li>
+      </ul>
+    </aside>
+  </div>
+</aside>
 
 <div class="usa-banner-content" id="main-content">
   <section class="usa-banner">

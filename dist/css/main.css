@@ -2192,7 +2192,7 @@ fieldset {
     margin-top: 4px; }
 @media screen and (min-width: 850px) {
     .usa-site-header .usa-site-navbar {
-        height: 6rem;
+        height: 2rem;
         margin-bottom: 1rem;
         margin-top: 2.7rem; } }
 .usa-site-header .usa-site-navbar .logo {

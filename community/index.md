@@ -29,7 +29,7 @@ title: Discuss IT
     <div class="usa-grid">
       <nav class="usa-site-navbar">
         <div class="logo">
-          <h1>
+          <h1 class="usa-heading">
             <a accesskey="1" title="Home" aria-label="Home" href="{{ site.baseurl }}/">TechFAR Hub</a>
           </h1>
         </div>

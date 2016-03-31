@@ -3,6 +3,8 @@ permalink: /community
 layout: styleguide
 title: Discuss IT
 ---
+
+
 <link rel="stylesheet" href="/dist/css/main.css">
 <link rel="stylesheet" href="/dist/css/google-fonts.css">
 <script src="/dist/js/components.js"></script>
@@ -46,13 +48,34 @@ title: Discuss IT
 </header>
 
 <aside class="sidenav">
-  Sidebar goes here!
+ <div class="usa-grid">
+    <aside class="usa-width-one-third">
+      <ul class="usa-sidenav-list">
+        <li>
+          <a class="usa-current" href="{{ site.baseurl }}/">TechFAR Hub Home</a>
+        </li>
+        <li>
+          <a href="{{ site.baseurl }}/learn">Discover IT</a>
+        </li>
+        <li>
+          <a href="{{ site.baseurl }}/community">Discuss IT</a>
+        </li>
+        <li>
+          <a href="{{ site.baseurl }}/build">Do IT</a>
+        </li>
+        <li>
+          <a href="{{ site.baseurl }}/contribute">Contribute</a>
+        </li>
+      </ul>
+    </aside>
+  </div>
 </aside>
+  
 
-<div class="usa-banner-content" id="main-content">
-  <section class="usa-banner">
+<div class="main-content" role="main">
+  <section class="usa-section">
     <div class="usa-grid">
- <h1>TechFAR Hub - Discuss IT</h1>
+     <h1>TechFAR Hub - Discuss IT</h1>
  
  <h2>Digital Service Acquisition Communities</h2>
 Spreading the word, telling about the successes and failures, and having a place to ask questions from experts is an effective way to crowdsource common challenges. Digital communities thrive on the viral experience and the acquisition community should take advantage of this trend. 

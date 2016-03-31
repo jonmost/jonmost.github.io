@@ -2264,19 +2264,19 @@ fieldset {
   width: 100%;
   z-index: -1; }
   p {
-  max-width: 53rem; }
+  max-width: 63rem; }
   ul {
-  max-width: 53rem; }
+  max-width: 63rem; }
   h1 {
-  max-width: 53rem; }
+  max-width: 63rem; }
   h2 {
-  max-width: 53rem; }
+  max-width: 63rem; }
   h3 {
-  max-width: 53rem; }
+  max-width: 63rem; }
   h4 {
-  max-width: 53rem; }
+  max-width: 63rem; }
   h5 {
-  max-width: 53rem; }
+  max-width: 63rem; }
   @media screen and (min-width: 600px) {
     .main-content {
       top: 124px; } }

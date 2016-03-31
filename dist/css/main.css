@@ -2263,6 +2263,8 @@ fieldset {
   padding-bottom: 0;
   width: 100%;
   z-index: -1; }
+  p {
+  max-width: 53rem; }
   @media screen and (min-width: 600px) {
     .main-content {
       top: 124px; } }

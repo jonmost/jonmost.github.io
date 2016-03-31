@@ -46,7 +46,27 @@ title: Discover IT
 </header>
 
 <aside class="sidenav">
-  Sidebar goes here!
+ <div class="usa-grid">
+    <aside class="usa-width-one-third">
+      <ul class="usa-sidenav-list">
+        <li>
+          <a class="usa-current" href="{{ site.baseurl }}/">TechFAR Hub Home</a>
+        </li>
+        <li>
+          <a href="{{ site.baseurl }}/learn">Discover IT</a>
+        </li>
+        <li>
+          <a href="{{ site.baseurl }}/community">Discuss IT</a>
+        </li>
+        <li>
+          <a href="{{ site.baseurl }}/build">Do IT</a>
+        </li>
+        <li>
+          <a href="{{ site.baseurl }}/contribute">Contribute</a>
+        </li>
+      </ul>
+    </aside>
+  </div>
 </aside>
   
 

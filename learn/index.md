@@ -35,7 +35,7 @@ title: Discover IT
       </nav>
     </div>
   </section>
-
+</header>
 
 <aside class="sidenav">
  <div class="usa-grid">
@@ -156,4 +156,4 @@ Specialized videos are a great resource for discovering new acquisition strategi
 	  </ul></div>
 </section>
 
-    </header>  
+      

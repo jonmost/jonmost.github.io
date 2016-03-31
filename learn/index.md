@@ -45,13 +45,13 @@ title: Discover IT
           <a class="usa-current" href="{{ site.baseurl }}/learn">Discover IT</a>
         </li>
        <li>
-            <a href="{{ site.baseurl }}/learn/#watch a video">Watch A Video</a>
+            <a href="{{ site.baseurl }}/learn/#watch">Watch A Video</a>
             <ul class="usa-sidenav-sub_list">
               <li>
-                <a href="{{ site.baseurl }}/learn/#listen to a podcast">Listen to A Podcast</a>
+                <a href="{{ site.baseurl }}/learn/#listen">Listen to A Podcast</a>
               </li>
               <li>
-                <a href="{{ site.baseurl }}/learn/#read a case study">Read a Case Study</a>
+                <a href="{{ site.baseurl }}/learn/#read">Read a Case Study</a>
               </li>
              
             </ul>

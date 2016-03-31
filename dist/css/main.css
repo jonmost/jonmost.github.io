@@ -2222,7 +2222,7 @@ fieldset {
 .usa-site-header .usa-site-navbar .usa-button-list {
     float: right;
     display: none;
-    margin-top: -40px; }
+    margin-top: -80px; }
 @media screen and (min-width: 850px) {
     .usa-site-header .usa-site-navbar .usa-button-list {
         display: block;

@@ -43,10 +43,11 @@ title: Discover IT
       <ul class="usa-sidenav-list">
         <li>
           <a class="usa-current" href="{{ site.baseurl }}/learn">Discover IT</a>
+          <ul class="usa-sidenav-sub_list">
         </li>
        <li>
             <a href="{{ site.baseurl }}/learn/#watch">Watch A Video</a>
-            <ul class="usa-sidenav-sub_list">
+            
               <li>
                 <a href="{{ site.baseurl }}/learn/#listen">Listen to A Podcast</a>
               </li>

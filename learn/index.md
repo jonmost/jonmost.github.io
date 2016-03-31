@@ -72,12 +72,7 @@ title: Discover IT
 
      <h1 class="usa-heading">TechFAR Hub - Discover IT</h1>
 
-
- 
-     <h2 class="usa-heading">Discover Digital Service Acquisitions</h2>
-       
-
-<h3 class="usa-heading"> <strong>Let's Get Started!</strong></h3>
+<h2 class="usa-heading"> <strong>Let's Get Started!</strong></h2>
 
          
              <p> Before embarking on an acquisition you should become familiar with the guiding government best practices</p>

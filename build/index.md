@@ -27,7 +27,7 @@ title: Do IT
     <div class="usa-grid">
       <nav class="usa-site-navbar">
         <div class="logo">
-          <h1>
+          <h1 class="usa-heading">
             <a accesskey="1" title="Home" aria-label="Home" href="{{ site.baseurl }}/">TechFAR Hub</a>
           </h1>
         </div>
@@ -65,11 +65,11 @@ title: Do IT
     <div class="usa-grid">
  <h1>TechFAR Hub - Do IT</h1>
       </nav>
-<h2>How to Create A Digital Service Acquisition</h2>
+<h2 class="usa-heading">How to Create A Digital Service Acquisition</h2>
 
 <p>Guidance and Discussion are crucial to success in understanding what to implement in the digital service acquisition environment but when having to sit down and <em>do it</em>, the task may seem daunting. This section provides tools, samples, and templates that can help you get started.</p>
 
-<h2>Estimation Tools</h2>
+<h2 class="usa-heading">Estimation Tools</h2>
 <p>Currently we offer two methods for cost estimation. The first, <strong>App Estimator,</strong> will help you estimate the cost and resources associated with building a single app.  The Second, <strong>Agile Team Estimator</strong> can help build an Independent Government Cost Estimate (IGCE) for Agile Development services. </p>
 <p>Choose your estimation tool below:</p>
 
@@ -80,7 +80,7 @@ title: Do IT
   </div>
  <p></p>
 
-<h2>Requirement Tools</h2>
+<h2 class="usa-heading">Requirement Tools</h2>
 <p>Click on the <strong>"Run the Plays"</strong> button below to get started creating a Statement of Objective based on the <a href="https://playbook.cio.gov/">Digital Service Play Book</a>. This is still an alpha version so feedback is appreciated. </p>
 <p></p>
 <div class="button_wrapper">
@@ -90,32 +90,32 @@ title: Do IT
 
 <p></P>
 
-<h2>Digital Contracting Cookbook</h2>
+<h2 class="usa-heading">Digital Contracting Cookbook</h2>
 <p>This guide created by 18F provides information and suggestions about how to acquire digital services. This is an open source product so contributions are encouraged.</p> 
 <p></p>
 <a class="usa-button-outline usa-button-active" type="button" target="blank" href="https://pages.18f.gov/contracting-cookbook/">View the Digital Contracting Cookbook</a>
 
 <p></p>
-<h2>18F Method Cards</h2>
+<h2 class="usa-heading">18F Method Cards</h2>
 <p>Method Cards are created to add rigor and structure to agile development, build a shared vocabulary for each method among 18F staff and partner agencies, and to give less experienced or new researchers a gateway into well-documented and proven research methods, supported by other 18F team members.</p>
 <p></p>
 <a class="usa-button-outline usa-button-active" type="button" target="blank" href="https://methods.18f.gov/">See the 18F Method Cards</a>
 
 <p></p>
 
-<h2>Templates</h2>
+<h2 class="usa-heading">Templates</h2>
 <P><a target="blank" href="/assets/DigitalServiceSOO.docx">Statement of Objectives Template</a></P>
 <p><a target="blank" href="/assets/Agile_Task_Order_IGCE_Example_-Sec_508_Remediated.docx">Agile Task Order FFP Independent Government Cost Estimate (IGCE) Template Example</a></p>
 <P><a target="blank" href="/assets/UX%20Contract%20Provisions.docx">UX Contract Provisions</a></P>
  
 
 
-<h2>Samples</h2>
+<h2 class="usa-heading">Samples</h2>
 <p><a target="blank" href="/assets/Agile%20Task%20Order%20Example.docx">Request For Quotes System Modernization Sample</a></p>
 <p><a target="blank" href="/assets/CRMTaskOrder%20Sample%20DRAFT.docx">Request For Quote Enterprise Collaboration and Customer Relationship Management Correspondence System Implementation</a></p>
 
 
-<h2>Vehicles</h2>
+<h2 class="usa-heading">Vehicles</h2>
 <p>Government-wide or Agency specific vehicles that specifically support digital service procurements</p>
 <p></p>
 <a target="blank" href="http://www.gsa.gov/portal/content/120966">SalesForce Governmentwide BPA</a>

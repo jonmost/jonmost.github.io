@@ -31,15 +31,7 @@ title: Do IT
             <a accesskey="1" title="Home" aria-label="Home" href="{{ site.baseurl }}/">TechFAR Hub</a>
           </h1>
         </div>
-        <ul class="usa-button-list usa-unstyled-list">
-          <li>
-              <a class="usa-button-outline usa-button-active" type="button" href="{{ site.baseurl }}/learn">Discover IT</a>
-          </li><li>
-              <a class="usa-button-outline usa-button-active" type="button" href="{{ site.baseurl }}/community">Discuss IT</a>
-          </li><li>
-              <a class="usa-button-outline usa-button-active" type="button" href="{{ site.baseurl }}/build">Do IT</a>
-          </li>
-        </ul>
+
       </nav>
     </div>
   </section>
@@ -50,16 +42,13 @@ title: Do IT
     <aside class="usa-width-one-third">
       <ul class="usa-sidenav-list">
         <li>
-          <a class="usa-current" href="{{ site.baseurl }}/">TechFAR Hub Home</a>
+          <a class="usa-current" href="{{ site.baseurl }}/">Do IT</a>
         </li>
         <li>
           <a href="{{ site.baseurl }}/learn">Discover IT</a>
         </li>
         <li>
           <a href="{{ site.baseurl }}/community">Discuss IT</a>
-        </li>
-        <li>
-          <a href="{{ site.baseurl }}/build">Do IT</a>
         </li>
         <li>
           <a href="{{ site.baseurl }}/contribute">Contribute</a>

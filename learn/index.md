@@ -41,15 +41,14 @@ title: Discover IT
  <div class="usa-grid">
     <aside class="usa-width-one-third">
       <ul class="usa-sidenav-list">
-
         <li>
-          <a href="{{ site.baseurl }}/learn">Discover IT</a>
+          <a class="usa-current" href="{{ site.baseurl }}/learn">Discover IT</a>
         </li>
         <li>
-          <a href="{{ site.baseurl }}/community">Discuss IT</a>
+          <a href="{{ site.baseurl }}/Community">Discuss IT</a>
         </li>
         <li>
-          <a href="{{ site.baseurl }}/build">Do IT</a>
+          <a href="{{ site.baseurl }}/Build">Do IT</a>
         </li>
         <li>
           <a href="{{ site.baseurl }}/contribute">Contribute</a>

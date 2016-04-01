@@ -102,9 +102,8 @@ http://updates.html5rocks.com/2014/11/Support-for-theme-color-in-Chrome-39-for-A
 
 <p>Guidance and Discussion are crucial to success in understanding what to implement in the digital service acquisition environment but when having to sit down and <em>do it</em>, the task may seem daunting. This section provides tools, samples, and templates that can help you get started.</p>
 
-<h2 class="usa-heading">Estimation Tools</h2>
-<p>Currently we offer two methods for cost estimation. The first, <strong>App Estimator,</strong> will help you estimate the cost and resources associated with building a single app.  The Second, <strong>Agile Team Estimator</strong> can help build an Independent Government Cost Estimate (IGCE) for Agile Development services. </p>
-<p>Choose your estimation tool below:</p>
+<h2 class="usa-heading">Estimation Tool</h2>
+<p>It is important to have an estimate that aligns with your agile approach. The <strong>Agile Team Estimator</strong> can help build an Independent Government Cost Estimate (IGCE) for Agile Development services. </p>
 
   <div class="button_wrapper">
     <a class="usa-button-outline usa-button-active" type="button" target="blank" href="https://playbook-in-action.apps.cloud.gov">Try the App Estimator</a>

@@ -2164,7 +2164,7 @@ fieldset {
   background: transparent;
   color: #212121;
   left: 0;
-  padding: 0rem 0rem;
+  padding: 1rem 1.5rem;
   position: absolute;
   top: -4.2rem;
   z-index: 100; }

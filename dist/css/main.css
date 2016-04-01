@@ -2296,6 +2296,6 @@ aside.sidenav{
   width: 250px;
   border-right: 1px solid #aeb0b5;
   padding: 5rem 3rem 3rem 3rem;
-  overflow: -30;
+  overflow: -10;
   z-index: -1;
 }

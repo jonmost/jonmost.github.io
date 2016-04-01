@@ -2167,7 +2167,7 @@ fieldset {
   padding: 1rem 1.5rem;
   position: absolute;
   top: -4.2rem;
-  z-index: 0; }
+  z-index: 100; }
   .skipnav:focus {
     -webkit-transition: all 0.2s ease-in-out;
     -moz-transition: all 0.2s ease-in-out;

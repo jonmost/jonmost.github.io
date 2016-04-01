@@ -134,6 +134,6 @@ DigitalGov.Gov">Visit US Digital Service Blog</a>
 
 <p></p>  
 
-<a class="usa-button-big" type="button" href="{{ site.baseurl }}/build">Click HERE</a>
+<a class="usa-button-big" type="button" href="{{ site.baseurl }}/build">CLICK HERE</a>
 
 </section>

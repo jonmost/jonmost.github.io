@@ -34,6 +34,10 @@ title: Contribute
         </div>
      
       <ul class="usa-button-list usa-unstyled-list">
+                         <li>
+          <a class="usa-button" type="button" target="blank" href="http://area51.stackexchange.com/proposals/95077/digital-service-acquisitions?referrer=iNHbk2AgvcNzGkfgmq2BHw2">Join The Community</a> 
+          </a>
+          </li>
         <li>
           <a class="usa-button usa-button-outline" type="button" target="blank" href="https://playbook-in-action.apps.cloud.gov">Run the Plays</a> 
           </a>

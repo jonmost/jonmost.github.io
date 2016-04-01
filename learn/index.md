@@ -115,10 +115,13 @@ http://updates.html5rocks.com/2014/11/Support-for-theme-color-in-Chrome-39-for-A
       </nav>
  <div class="usa-banner-content" id="main-content">
 
-	  <h3 class="usa-heading" id="watch">Watch a video</h3>
+	  <h3 class="usa-heading" id="watch">Take Some Training</h3>
 <P> <strong>Not all training has to be done in the classroom!</strong></p>
-<p>Specialized videos are a great resource for discovering new acquisition strategies. The links below provide valuable lessons from acquisition experts that can help you better understand the opportunities, methods, and challenges around Digital Service Acquisitions. </P>
-<p><a target="blank" href="https://www.fai.gov/media_library/items/show/81/">Agile Acquisition 101</a>.
+<p>Specialized videos and online courses are great resource for building your skills and discovering new acquisition strategies. The links below provide valuable lessons from acquisition experts that can help you better understand the opportunities, methods, and challenges around Digital Service Acquisitions. </P>
+<p><a target="blank" href="https://www.fai.gov/media_library/items/show/81/">Agile Acquisition 101</a>
+</p>
+
+<p><a target="blank" href="http://www.agilegovleaders.org/academy/">AGL Academy</a>
 </p>
 
 	  <h3 class="usa-heading" id="listen">Listen to a Podcast</h3>

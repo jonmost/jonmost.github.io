@@ -69,15 +69,19 @@ http://updates.html5rocks.com/2014/11/Support-for-theme-color-in-Chrome-39-for-A
   </section>
 
 
+
 <aside class="sidenav">
  <div class="usa-grid">
     <aside class="usa-width-one-third">
       <ul class="usa-sidenav-list">
         <li>
-          <a class="usa-current" href="{{ site.baseurl }}/community">Discuss IT</a>
+          <a href="{{ site.baseurl }}/">TechFAR Hub Home</a>
         </li>
         <li>
           <a href="{{ site.baseurl }}/learn">Discover IT</a>
+        </li>
+        <li>
+          <a class="usa-current" href="{{ site.baseurl }}/community">Discuss IT</a>
         </li>
         <li>
           <a href="{{ site.baseurl }}/build">Do IT</a>

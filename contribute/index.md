@@ -73,7 +73,7 @@ http://updates.html5rocks.com/2014/11/Support-for-theme-color-in-Chrome-39-for-A
     <aside class="usa-width-one-third">
       <ul class="usa-sidenav-list">
         <li>
-          <a class="usa-current" href="{{ site.baseurl }}/Contribute">Contribute</a>
+          <a href="{{ site.baseurl }}/">TechFAR Hub Home</a>
         </li>
         <li>
           <a href="{{ site.baseurl }}/learn">Discover IT</a>
@@ -83,6 +83,9 @@ http://updates.html5rocks.com/2014/11/Support-for-theme-color-in-Chrome-39-for-A
         </li>
         <li>
           <a href="{{ site.baseurl }}/build">Do IT</a>
+        </li>
+        <li>
+          <a class="usa-current" href="{{ site.baseurl }}/contribute">Contribute</a>
         </li>
       </ul>
     </aside>

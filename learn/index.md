@@ -182,7 +182,7 @@ http://updates.html5rocks.com/2014/11/Support-for-theme-color-in-Chrome-39-for-A
 	     <li><a target="blank" href="/assets/Innovation_is_a_Contract_Sport__Ways_that_agencies_can_achieve_innovative_outcomes_through_acquisitions-2016%2002%2006.pdf">Innovation is a Contract Sport</a></li>
 	    </dl>
 	  </ul> </div></P>
-<a class="usa-button-big" type="button" href="{{ site.baseurl }}/community">Click Here</a>	  
+<a class="usa-button-big" type="button" href="{{ site.baseurl }}/community">CLICK HERE</a>	  
 	 
 </section>
 

@@ -98,7 +98,7 @@ http://updates.html5rocks.com/2014/11/Support-for-theme-color-in-Chrome-39-for-A
   <section class="usa-section">
     <div class="usa-grid">
 
-        <h1 class="usa-heading">Contribute</h1>
+        <h1 class="usa-heading">TechFAR Hub - Contribute to IT</h1>
         <p>The draft TechFAR Hub alpha was created during the winter of 2016 by the procurement team at the U.S. Digital Service. We will continue to maintain and update these resources as we learn what works best for the people we serve.</p>
         <p>Help us make it better.</p>
 

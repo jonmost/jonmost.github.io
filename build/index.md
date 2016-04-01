@@ -105,8 +105,6 @@ http://updates.html5rocks.com/2014/11/Support-for-theme-color-in-Chrome-39-for-A
 <h2 class="usa-heading">Estimation Tool</h2>
 <p>It is important to have an estimate that aligns with your agile approach. The <strong>Agile Team Estimator</strong> can help build an Independent Government Cost Estimate (IGCE) for Agile Development services. </p>
 
-  <div class="button_wrapper">
-    <a class="usa-button-outline usa-button-active" type="button" target="blank" href="https://playbook-in-action.apps.cloud.gov">Try the App Estimator</a>
     <a class="usa-button-outline usa-button-active" type="button" target="blank" href="https://acquisition-planning-beta.herokuapp.com/agile_estimator">Download the Agile Team Estimator</a>
  
   </div>

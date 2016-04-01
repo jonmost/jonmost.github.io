@@ -118,7 +118,7 @@ http://updates.html5rocks.com/2014/11/Support-for-theme-color-in-Chrome-39-for-A
 
 
   <h3 class="usa-heading">Let's Blog About IT</h3>
-<p>An interactive Blog will be Coming Soon!</p>
+<p><em>An interactive Blog will be Coming Soon!</em></p>
 
 <p>In the meantime these informative blogs will help keep you connected with the government digital service efforts:</p>
 

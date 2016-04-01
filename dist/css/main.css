@@ -2184,7 +2184,7 @@ fieldset {
     position: fixed;
     left: 0;
     top: 0;
-    bottom:-5;
+  
     width: 100%;
     z-index: 1; }
 .usa-site-header a {

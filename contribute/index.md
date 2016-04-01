@@ -50,7 +50,7 @@ title: Contribute
     <aside class="usa-width-one-third">
       <ul class="usa-sidenav-list">
         <li>
-          <a class="usa-current" href="{{ site.baseurl }}/build">Do IT</a>
+          <a class="usa-current" href="{{ site.baseurl }}/Contribute">Contribute</a>
         </li>
         <li>
           <a href="{{ site.baseurl }}/learn">Discover IT</a>
@@ -59,7 +59,7 @@ title: Contribute
           <a href="{{ site.baseurl }}/community">Discuss IT</a>
         </li>
         <li>
-          <a href="{{ site.baseurl }}/contribute">Contribute</a>
+          <a href="{{ site.baseurl }}/build">Do IT</a>
         </li>
       </ul>
     </aside>

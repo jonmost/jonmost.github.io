@@ -121,15 +121,12 @@ http://updates.html5rocks.com/2014/11/Support-for-theme-color-in-Chrome-39-for-A
 <p>An interactive Blog will be Coming Soon!</p>
 
 <p>In the meantime these informative blogs will help keep you connected with the government digital service efforts:</p>
- <div class="button_wrapper">
-    <a class="usa-button-secondary usa-button-hover" type="button" target="blank" href="https://digitalacquisitionpilot.wordpress.com/">Visit Digital Acquisition Pilot Blog</a>
-    <a class="usa-button-secondary usa-button-hover" type="button" target="blank" href="http://gsablogs.gsa.gov/gsablog/">Visit GSA Blog</a>
-  </div>
-   <div class="button_wrapper">
-    <a class="usa-button-secondary usa-button-hover" type="button" target="blank" href="https://18f.gsa.gov/blog/">Visit 18f Digital Service Blog</a>
-    <a class="usa-button-secondary usa-button-hover" type="button" target="blank" href="https://medium.com/@USDigitalService 
-DigitalGov.Gov">Visit US Digital Service Blog</a>
-     </div>
+
+<a target="blank" href="https://digitalacquisitionpilot.wordpress.com/" target="blank">Digital Acquisition Pilot Blog</a>
+<a target="blank" href="http://gsablogs.gsa.gov/gsablog/" target="blank">GSA Blog</a>
+<a target="blank" href="https://18f.gsa.gov/blog/" target="blank">18f Digital Service Blog</a>
+<a target="blank" href="https://medium.com/@USDigitalService
+DigitalGov.Gov" target="blank">US Digital Service Blog</a>
 
 
 <p></p>  

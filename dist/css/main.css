@@ -2259,7 +2259,7 @@ fieldset {
   top: 4rem;
   right: 0;
   bottom: 0;
-  padding-top: -5em;
+  padding-top: 1em;
   padding-bottom: 0;
   width: 100%;
   z-index: -1; }

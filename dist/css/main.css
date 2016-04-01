@@ -2295,7 +2295,7 @@ aside.sidenav{
   left: 0;
   width: 250px;
   border-right: 1px solid #aeb0b5;
-  padding: 5rem 3rem 3rem 3rem;
+  padding: 5rem 3rem 3rem 0rem;
   overflow: auto;
   z-index: -1;
 }

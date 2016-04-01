@@ -107,7 +107,7 @@ http://updates.html5rocks.com/2014/11/Support-for-theme-color-in-Chrome-39-for-A
 
     <a class="usa-button-outline usa-button-active" type="button" target="blank" href="https://acquisition-planning-beta.herokuapp.com/agile_estimator">Download the Agile Team Estimator</a>
  
-  </div>
+
  <p></p>
  
 <h2 class="usa-heading">Requirement Tools</h2>

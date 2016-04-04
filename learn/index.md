@@ -93,11 +93,9 @@ http://updates.html5rocks.com/2014/11/Support-for-theme-color-in-Chrome-39-for-A
 </aside>
   
 </header>
-<section>
 <div class="main-content" role="main">
   <section class="usa-section">
     <div class="usa-grid">
-
 
      <h1 class="usa-heading">TechFAR Hub - Discover IT</h1>
 
@@ -109,7 +107,7 @@ http://updates.html5rocks.com/2014/11/Support-for-theme-color-in-Chrome-39-for-A
                <a class="usa-button-outline usa-button-active" type="button" target="blank" href="https://playbook.cio.gov/">Read the Playbook</a>
                <a class="usa-button-outline usa-button-active" type="button" target="blank" href="https://playbook.cio.gov/techfar/">Read the Handbook</a>
 </div>
-</section>
+
    <section class="usa-banner">
     <div class="usa-grid">
       <nav>

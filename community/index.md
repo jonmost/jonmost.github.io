@@ -105,42 +105,6 @@ http://updates.html5rocks.com/2014/11/Support-for-theme-color-in-Chrome-39-for-A
 <p>Spreading the word, telling about the successes and failures, and having a place to ask questions from experts is an effective way to crowdsource common challenges. Digital communities thrive on the viral experience and the acquisition community should take advantage of this trend. </P>
 
 <p></p>
-<h6>Bordered Table</h6>
-
-  <table>
-    <thead>
-      <tr>
-        <th scope="col">Document title</th>
-        <th scope="col">Description</th>
-        <th scope="col">Year</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <th scope="row">Declaration of Independence</th>
-        <td>Statement adopted by the Continental Congress declaring independence from the British Empire.</td>
-        <td>1776</td>
-      </tr>
-      <tr>
-        <th scope="row">Bill of Rights</th>
-        <td>The first ten amendments of the U.S. Constitution guaranteeing rights and freedoms.</td>
-        <td>1791</td>
-      </tr>
-      <tr>
-        <th scope="row">Declaration of Sentiments</th>
-        <td>A document written during the Seneca Falls Convention outlining the rights that American women should be entitled to as citizens.</td>
-        <td>1848</td>
-      </tr>
-      <tr>
-        <th scope="row">Emancipation Proclamation</th>
-        <td>An executive order granting freedom to slaves in designated southern states.</td>
-        <td>1863</td>
-      </tr>
-    </tbody>
-  </table>
-  
-  <p></p>
-
 
   <h3 class="usa-heading">Stack Exchange IT Procurement Discussion Board</h3>
 <p>Stack Exchange is a Question and Answer website that uses crowd sourcing to build a community around certain topics. In order to provide a public space for the discussion of Government IT Procurement, the US Digital Service has created a proposed topic on Stack Exchange. We are trying to get commitment that this topic deserves its own site so it is currently in “Area 51” which is the Stack Exchange proposal development site. It is still in the building phase, so help support the community by following and contributing to the discussion!</p>

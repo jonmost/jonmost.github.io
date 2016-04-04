@@ -131,41 +131,6 @@ DigitalGov.Gov" target="blank">US Digital Service Blog</a></li>
 </ul>
 
 
-<p></p>  
-
-<h6>Bordered Table</h6>
-
-  <table>
-    <thead>
-      <tr>
-        <th scope="col">Document title</th>
-        <th scope="col">Description</th>
-        <th scope="col">Year</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <th scope="row">Declaration of Independence</th>
-        <td>Statement adopted by the Continental Congress declaring.</td>
-        <td>1776</td>
-      </tr>
-      <tr>
-        <th scope="row">Bill of Rights</th>
-        <td>The first ten amendments of the U.S. Constitution.</td>
-        <td>1791</td>
-      </tr>
-      <tr>
-        <th scope="row">Declaration of Sentiments</th>
-        <td>A document written during the Seneca Falls.</td>
-        <td>1848</td>
-      </tr>
-      <tr>
-        <th scope="row">Emancipation Proclamation</th>
-        <td>An executive order granting freedom to.</td>
-        <td>1863</td>
-      </tr>
-    </tbody>
-  </table>
   
   <p></p>
 

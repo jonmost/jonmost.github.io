@@ -106,14 +106,6 @@ http://updates.html5rocks.com/2014/11/Support-for-theme-color-in-Chrome-39-for-A
               <p></p>
                <a class="usa-button-outline usa-button-active" type="button" target="blank" href="https://playbook.cio.gov/">Read the Playbook</a>
                <a class="usa-button-outline usa-button-active" type="button" target="blank" href="https://playbook.cio.gov/techfar/">Read the Handbook</a>
-</div>
-
-   <section class="usa-banner">
-    <div class="usa-grid">
-      <nav>
-       
-      </nav>
- <div class="usa-banner-content" id="main-content">
 
 	  <h3 class="usa-heading" id="watch">Take Some Training</h3>
 <P> <strong>Not all training has to be done in the classroom!</strong></p>

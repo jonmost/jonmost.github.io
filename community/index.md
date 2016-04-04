@@ -146,7 +146,7 @@ DigitalGov.Gov" target="blank">US Digital Service Blog</a></li>
     <tbody>
       <tr>
         <th scope="row">Declaration of Independence</th>
-        <td>Statement adopted by the Continental Congress declaring independence from the British Empire.</td>
+        <td>Statement adopted by the Continental Congress declaring.</td>
         <td>1776</td>
       </tr>
       <tr>

@@ -151,17 +151,17 @@ DigitalGov.Gov" target="blank">US Digital Service Blog</a></li>
       </tr>
       <tr>
         <th scope="row">Bill of Rights</th>
-        <td>The first ten amendments of the U.S. Constitution guaranteeing rights and freedoms.</td>
+        <td>The first ten amendments of the U.S. Constitution.</td>
         <td>1791</td>
       </tr>
       <tr>
         <th scope="row">Declaration of Sentiments</th>
-        <td>A document written during the Seneca Falls Convention outlining the rights that American women should be entitled to as citizens.</td>
+        <td>A document written during the Seneca Falls.</td>
         <td>1848</td>
       </tr>
       <tr>
         <th scope="row">Emancipation Proclamation</th>
-        <td>An executive order granting freedom to slaves in designated southern states.</td>
+        <td>An executive order granting freedom to.</td>
         <td>1863</td>
       </tr>
     </tbody>

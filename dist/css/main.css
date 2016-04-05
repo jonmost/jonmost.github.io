@@ -2280,7 +2280,7 @@ fieldset {
   max-width: 53rem; }
   @media screen and (min-width: 600px) {
     .main-content {
-      top: 124px; } }
+      top: 50px; } }
   .lt-ie9 .main-content {
     width: 75%; }
   @media screen and (min-width: 850px) {

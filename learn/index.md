@@ -61,9 +61,7 @@ http://updates.html5rocks.com/2014/11/Support-for-theme-color-in-Chrome-39-for-A
           <a class="usa-button usa-button-outline" type="button" target="blank" href="https://playbook-in-action.apps.cloud.gov">Run the Plays</a> 
           </a>
           </li>
- 
       </ul>
-  
       </nav>
     </div>
   </section>
@@ -89,10 +87,10 @@ http://updates.html5rocks.com/2014/11/Support-for-theme-color-in-Chrome-39-for-A
         </li>
       </ul>
     </aside>
-  </div>
-</aside>
-  
+   </div>
+  </aside>
 </header>
+
 <div class="main-content" role="main">
   <section class="usa-section">
     <div class="usa-grid">

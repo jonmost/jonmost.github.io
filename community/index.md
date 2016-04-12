@@ -7,7 +7,6 @@ title: Discuss IT
 
 <link rel="stylesheet" href="/dist/css/main.css">
 <link rel="stylesheet" href="/dist/css/google-fonts.css">
-<script src="/dist/js/components.js"></script>
 
 <!-- Favicons
 ================================================== -->

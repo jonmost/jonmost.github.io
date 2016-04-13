@@ -1,6 +1,6 @@
 ---
-Permalink: /contribute
-layout: styleguide
+permalink: /contribute
+layout: default
 title: Contribute
 ---
 

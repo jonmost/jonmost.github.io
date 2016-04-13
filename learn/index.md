@@ -1,6 +1,6 @@
 ---
 permalink: /learn
-layout: styleguide
+layout: default
 title: Discover IT
 ---
 

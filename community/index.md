@@ -1,6 +1,6 @@
 ---
 permalink: /community
-layout: styleguide
+layout: default
 title: Discuss IT
 ---
 
